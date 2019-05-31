@@ -1,0 +1,304 @@
+2019/04/03 11:42:53.315 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 11:43:12.909 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 14:18:08.871 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 14:18:10.610 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 14:18:14.062 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   8.174649ms|   match|[44m GET     [0m /     r:/
+2019/04/03 14:18:14.213 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    890.441µs|   match|[44m GET     [0m /static/js/reload.min.js
+2019/04/03 14:56:53.380 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 14:56:55.079 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 14:57:10.496 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 15:12:32.556 [D] [controller.go:282]  template Execute err: html/template:index.tpl:15:12: no such template "footer"
+2019/04/03 15:12:32.556 [E] [server.go:2774]  html/template:index.tpl:15:12: no such template "footer"
+2019/04/03 15:12:32.556 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   2.346658ms|   match|[44m GET     [0m /     r:/
+2019/04/03 15:12:32.850 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    356.269µs| nomatch|[44m GET     [0m /favicon.ico
+2019/04/03 15:12:51.725 [D] [controller.go:282]  template Execute err: html/template:index.tpl:15:12: no such template "footer"
+2019/04/03 15:12:51.725 [E] [server.go:2774]  html/template:index.tpl:15:12: no such template "footer"
+2019/04/03 15:12:51.725 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   3.187114ms|   match|[44m GET     [0m /     r:/
+2019/04/03 15:13:01.842 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 15:13:03.891 [D] [controller.go:282]  template Execute err: html/template:index.tpl:15:12: no such template "footer"
+2019/04/03 15:13:03.891 [E] [server.go:2774]  html/template:index.tpl:15:12: no such template "footer"
+2019/04/03 15:13:03.891 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   3.792031ms|   match|[44m GET     [0m /     r:/
+2019/04/03 15:13:41.130 [D] [controller.go:282]  template Execute err: html/template:index.tpl:15:11: no such template "footer"
+2019/04/03 15:13:41.131 [E] [server.go:2774]  html/template:index.tpl:15:11: no such template "footer"
+2019/04/03 15:13:41.131 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.412633ms|   match|[44m GET     [0m /     r:/
+2019/04/03 15:14:14.121 [D] [controller.go:282]  template Execute err: html/template:index.tpl:15:11: no such template "footer"
+2019/04/03 15:14:14.121 [E] [server.go:2774]  html/template:index.tpl:15:11: no such template "footer"
+2019/04/03 15:14:14.121 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    3.42122ms|   match|[44m GET     [0m /     r:/
+2019/04/03 15:14:16.466 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 15:14:18.356 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 15:14:19.090 [D] [controller.go:282]  template Execute err: html/template:index.html:15:11: no such template "footer"
+2019/04/03 15:14:19.090 [E] [server.go:2774]  html/template:index.html:15:11: no such template "footer"
+2019/04/03 15:14:19.090 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.797381ms|   match|[44m GET     [0m /     r:/
+2019/04/03 15:14:44.548 [D] [controller.go:282]  template Execute err: html/template:index.html:15:11: no such template "footer"
+2019/04/03 15:14:44.548 [E] [server.go:2774]  html/template:index.html:15:11: no such template "footer"
+2019/04/03 15:14:44.548 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.429502ms|   match|[44m GET     [0m /     r:/
+2019/04/03 15:14:48.280 [D] [controller.go:282]  template Execute err: html/template:index.html:15:11: no such template "footer"
+2019/04/03 15:14:48.280 [E] [server.go:2774]  html/template:index.html:15:11: no such template "footer"
+2019/04/03 15:14:48.280 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    1.33618ms|   match|[44m GET     [0m /     r:/
+2019/04/03 15:14:49.195 [D] [controller.go:282]  template Execute err: html/template:index.html:15:11: no such template "footer"
+2019/04/03 15:14:49.195 [E] [server.go:2774]  html/template:index.html:15:11: no such template "footer"
+2019/04/03 15:14:49.195 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.075898ms|   match|[44m GET     [0m /     r:/
+2019/04/03 15:14:49.477 [D] [controller.go:282]  template Execute err: html/template:index.html:15:11: no such template "footer"
+2019/04/03 15:14:49.477 [E] [server.go:2774]  html/template:index.html:15:11: no such template "footer"
+2019/04/03 15:14:49.477 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.065836ms|   match|[44m GET     [0m /     r:/
+2019/04/03 15:14:49.678 [D] [controller.go:282]  template Execute err: html/template:index.html:15:11: no such template "footer"
+2019/04/03 15:14:49.678 [E] [server.go:2774]  html/template:index.html:15:11: no such template "footer"
+2019/04/03 15:14:49.678 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.244793ms|   match|[44m GET     [0m /     r:/
+2019/04/03 15:14:49.896 [D] [controller.go:282]  template Execute err: html/template:index.html:15:11: no such template "footer"
+2019/04/03 15:14:49.896 [E] [server.go:2774]  html/template:index.html:15:11: no such template "footer"
+2019/04/03 15:14:49.896 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.150103ms|   match|[44m GET     [0m /     r:/
+2019/04/03 15:15:31.167 [D] [controller.go:282]  template Execute err: html/template:index.html:1:11: no such template "header"
+2019/04/03 15:15:31.167 [E] [server.go:2774]  html/template:index.html:1:11: no such template "header"
+2019/04/03 15:15:31.167 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    901.768µs|   match|[44m GET     [0m /     r:/
+2019/04/03 15:17:08.833 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.286727ms|   match|[44m GET     [0m /     r:/
+2019/04/03 15:17:08.861 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    314.513µs| nomatch|[44m GET     [0m /static/css/bootstrap.css
+2019/04/03 15:17:08.863 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    293.752µs| nomatch|[44m GET     [0m /static/js/boostrap.min.js
+2019/04/03 15:17:18.505 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    409.002µs| nomatch|[44m GET     [0m /static/css/bootstrap.css
+2019/04/03 15:18:13.581 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   3.819271ms|   match|[44m GET     [0m /     r:/
+2019/04/03 15:18:13.630 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    258.617µs| nomatch|[44m GET     [0m /static/css/bootstrap.css
+2019/04/03 15:18:13.631 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    299.194µs| nomatch|[44m GET     [0m /static/js/boostrap.min.js
+2019/04/03 15:18:53.009 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    966.613µs|   match|[44m GET     [0m /     r:/
+2019/04/03 15:18:53.044 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   3.145436ms|   match|[44m GET     [0m /static/js/bootstrap.min.js
+2019/04/03 15:18:53.047 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   5.920887ms|   match|[44m GET     [0m /static/css/bootstrap.min.css
+2019/04/03 15:18:53.370 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    196.679µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/04/03 15:20:12.770 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    215.862µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/04/03 15:22:05.176 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   2.703662ms|   match|[44m GET     [0m /     r:/
+2019/04/03 15:22:05.321 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    210.835µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/04/03 15:23:06.575 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   2.309157ms|   match|[44m GET     [0m /     r:/
+2019/04/03 15:23:06.925 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    262.413µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/04/03 15:23:24.319 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    310.076µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/04/03 15:30:50.134 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 15:35:36.956 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 15:35:53.322 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 15:36:03.070 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 15:40:26.927 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 15:40:49.177 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 15:40:52.766 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 15:40:52.849 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   7.490446ms|   match|[44m GET     [0m /     r:/
+2019/04/03 15:40:54.820 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 15:41:11.340 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   6.590864ms|   match|[44m GET     [0m /     r:/
+2019/04/03 15:43:14.182 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 15:44:23.457 [D] [server.go:2774]  |            ::1|[43m 404 [0m|     358.85µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/04/03 15:45:37.873 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    1.78047ms|   match|[44m GET     [0m /     r:/
+2019/04/03 15:45:41.796 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    188.245µs| nomatch|[44m GET     [0m /navbar/
+2019/04/03 15:45:46.614 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.601589ms|   match|[44m GET     [0m /     r:/
+2019/04/03 15:45:48.851 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    239.425µs| nomatch|[44m GET     [0m /navbar-static-top/
+2019/04/03 15:45:54.414 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.513397ms|   match|[44m GET     [0m /     r:/
+2019/04/03 15:47:51.067 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.149742ms|   match|[44m GET     [0m /     r:/
+2019/04/03 15:48:07.692 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    181.666µs| nomatch|[44m GET     [0m /navbar-static-top/
+2019/04/03 15:50:27.880 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   8.277746ms|   match|[44m GET     [0m /     r:/
+2019/04/03 15:51:50.492 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    2.97571ms|   match|[44m GET     [0m /     r:/
+2019/04/03 15:52:02.056 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    2.54158ms|   match|[44m GET     [0m /     r:/
+2019/04/03 15:52:40.772 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   2.962706ms|   match|[44m GET     [0m /     r:/
+2019/04/03 15:52:41.561 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.833507ms|   match|[44m GET     [0m /     r:/
+2019/04/03 15:52:41.800 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    902.015µs|   match|[44m GET     [0m /     r:/
+2019/04/03 15:53:00.890 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   2.618382ms|   match|[44m GET     [0m /     r:/
+2019/04/03 15:53:09.828 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    6.91888ms|   match|[44m GET     [0m /     r:/
+2019/04/03 15:53:30.944 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.351191ms|   match|[44m GET     [0m /     r:/
+2019/04/03 15:53:36.230 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    185.899µs| nomatch|[44m GET     [0m /navbar-static-top/
+2019/04/03 15:53:52.037 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.433193ms|   match|[44m GET     [0m /     r:/
+2019/04/03 15:54:00.734 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    1.53973ms|   match|[44m GET     [0m /     r:/
+2019/04/03 15:55:40.218 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   2.920117ms|   match|[44m GET     [0m /     r:/
+2019/04/03 15:55:42.670 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    263.278µs| nomatch|[44m GET     [0m /navbar/
+2019/04/03 15:56:37.077 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   2.385766ms|   match|[44m GET     [0m /     r:/
+2019/04/03 16:07:54.779 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   3.534759ms|   match|[44m GET     [0m /     r:/
+2019/04/03 16:07:56.407 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    205.771µs| nomatch|[44m GET     [0m /signin
+2019/04/03 16:08:33.852 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    840.286µs|   match|[44m GET     [0m /     r:/
+2019/04/03 16:08:35.687 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.840687ms|   match|[44m GET     [0m /     r:/
+2019/04/03 16:08:36.118 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.395788ms|   match|[44m GET     [0m /     r:/
+2019/04/03 16:08:36.337 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.734521ms|   match|[44m GET     [0m /     r:/
+2019/04/03 16:08:57.354 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    1.84335ms|   match|[44m GET     [0m /     r:/
+2019/04/03 16:08:58.374 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    190.914µs| nomatch|[44m GET     [0m /signin
+2019/04/03 16:09:32.080 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    216.246µs| nomatch|[44m GET     [0m /signin
+2019/04/03 16:10:05.216 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.736238ms|   match|[44m GET     [0m /     r:/
+2019/04/03 16:10:06.767 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    155.176µs| nomatch|[44m GET     [0m /signin
+2019/04/03 16:12:42.732 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    167.938µs| nomatch|[44m GET     [0m /signin
+2019/04/03 16:12:43.457 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    185.556µs| nomatch|[44m GET     [0m /signin
+2019/04/03 16:12:43.668 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    357.648µs| nomatch|[44m GET     [0m /signin
+2019/04/03 16:12:43.951 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    126.335µs| nomatch|[44m GET     [0m /signin
+2019/04/03 16:12:44.121 [D] [server.go:2774]  |            ::1|[43m 404 [0m|     191.61µs| nomatch|[44m GET     [0m /signin
+2019/04/03 16:12:44.306 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    137.026µs| nomatch|[44m GET     [0m /signin
+2019/04/03 16:12:46.227 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   2.790673ms|   match|[44m GET     [0m /     r:/
+2019/04/03 16:12:49.059 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    631.272µs| nomatch|[44m GET     [0m /signin
+2019/04/03 16:13:17.833 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 16:13:20.310 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 16:13:22.689 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 16:14:06.672 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.551573ms|   match|[44m GET     [0m /     r:/
+2019/04/03 16:14:06.855 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 16:14:08.458 [C] [panic.go:522]  the request url is  /signin
+2019/04/03 16:14:08.458 [C] [panic.go:522]  Handler crashed with error can't find templatefile in the path:views/login.html
+2019/04/03 16:14:08.458 [C] [panic.go:522]  /usr/local/opt/go/libexec/src/runtime/panic.go:522
+2019/04/03 16:14:08.458 [C] [panic.go:522]  /Users/wangliyao/gopath/src/github.com/astaxie/beego/template.go:75
+2019/04/03 16:14:08.458 [C] [panic.go:522]  /Users/wangliyao/gopath/src/github.com/astaxie/beego/controller.go:282
+2019/04/03 16:14:08.458 [C] [panic.go:522]  /Users/wangliyao/gopath/src/github.com/astaxie/beego/controller.go:233
+2019/04/03 16:14:08.458 [C] [panic.go:522]  /Users/wangliyao/gopath/src/github.com/astaxie/beego/controller.go:213
+2019/04/03 16:14:08.458 [C] [panic.go:522]  /Users/wangliyao/gopath/src/github.com/astaxie/beego/router.go:864
+2019/04/03 16:14:08.458 [C] [panic.go:522]  /usr/local/opt/go/libexec/src/net/http/server.go:2774
+2019/04/03 16:14:08.458 [C] [panic.go:522]  /usr/local/opt/go/libexec/src/net/http/server.go:1878
+2019/04/03 16:14:08.458 [C] [panic.go:522]  /usr/local/opt/go/libexec/src/runtime/asm_amd64.s:1337
+2019/04/03 16:14:08.459 [server.go:3010]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:230)
+2019/04/03 16:14:42.816 [C] [panic.go:522]  the request url is  /signin
+2019/04/03 16:14:42.816 [C] [panic.go:522]  Handler crashed with error can't find templatefile in the path:views/login.html
+2019/04/03 16:14:42.816 [C] [panic.go:522]  /usr/local/opt/go/libexec/src/runtime/panic.go:522
+2019/04/03 16:14:42.816 [C] [panic.go:522]  /Users/wangliyao/gopath/src/github.com/astaxie/beego/template.go:75
+2019/04/03 16:14:42.816 [C] [panic.go:522]  /Users/wangliyao/gopath/src/github.com/astaxie/beego/controller.go:282
+2019/04/03 16:14:42.816 [C] [panic.go:522]  /Users/wangliyao/gopath/src/github.com/astaxie/beego/controller.go:233
+2019/04/03 16:14:42.816 [C] [panic.go:522]  /Users/wangliyao/gopath/src/github.com/astaxie/beego/controller.go:213
+2019/04/03 16:14:42.816 [C] [panic.go:522]  /Users/wangliyao/gopath/src/github.com/astaxie/beego/router.go:864
+2019/04/03 16:14:42.816 [C] [panic.go:522]  /usr/local/opt/go/libexec/src/net/http/server.go:2774
+2019/04/03 16:14:42.816 [C] [panic.go:522]  /usr/local/opt/go/libexec/src/net/http/server.go:1878
+2019/04/03 16:14:42.816 [C] [panic.go:522]  /usr/local/opt/go/libexec/src/runtime/asm_amd64.s:1337
+2019/04/03 16:14:42.816 [server.go:3010]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:230)
+2019/04/03 16:14:44.821 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   2.741523ms|   match|[44m GET     [0m /     r:/
+2019/04/03 16:14:45.605 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 16:14:45.970 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   3.430369ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 16:14:47.631 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 16:14:48.368 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.909523ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 16:14:48.995 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   2.718456ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 16:14:49.237 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   3.454323ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 16:14:49.447 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.513501ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 16:14:50.181 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.929384ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 16:14:55.692 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 16:15:25.373 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 16:21:59.438 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.280702ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 16:22:02.256 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    934.648µs|   match|[44m GET     [0m /     r:/
+2019/04/03 16:22:07.643 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.927768ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 16:22:10.386 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    1.20773ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 16:22:10.822 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.299598ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 16:22:11.184 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.168393ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 16:22:38.895 [D] [server.go:2774]  |            ::1|[43m 404 [0m|      265.4µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/04/03 16:24:15.846 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   4.121848ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 16:24:23.546 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   3.576485ms|   match|[44m GET     [0m /     r:/
+2019/04/03 16:24:27.759 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.175885ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 16:24:35.557 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.255493ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 16:24:35.766 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.206703ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 16:24:35.976 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.123443ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 16:24:36.160 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.120643ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 16:25:51.908 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   2.152645ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 16:26:06.581 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   3.054246ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 16:30:07.550 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.581583ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 16:30:09.652 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.837622ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 16:30:09.864 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.209372ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 16:30:10.054 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.387686ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 16:31:09.551 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 16:31:11.571 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 16:34:55.631 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   5.057329ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 16:35:04.333 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     1.7557ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 16:42:47.020 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.055853ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 16:42:52.802 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   4.185174ms|   match|[44m GET     [0m /     r:/
+2019/04/03 16:42:56.369 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   3.517979ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 16:43:29.104 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   2.925417ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 16:43:32.813 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 16:43:34.748 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 16:43:42.970 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   9.012449ms|   match|[44m GET     [0m /     r:/
+2019/04/03 16:43:47.502 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   2.191199ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 16:44:40.111 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.519206ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 16:45:21.758 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    213.754µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/04/03 16:46:01.376 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.145164ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 16:46:01.511 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    309.212µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/04/03 16:48:08.561 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.092446ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 16:48:33.510 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   3.298517ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 16:48:41.513 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    3.36322ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 16:52:42.611 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   9.011059ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 16:52:55.005 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    3.47497ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 16:53:07.869 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    171.108µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/04/03 16:54:37.228 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.933377ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 16:54:37.247 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    289.068µs| nomatch|[44m GET     [0m /examples/images/avatar.png
+2019/04/03 17:02:55.488 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   2.873584ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 17:02:55.538 [D] [server.go:2774]  |            ::1|[43m 404 [0m|     258.19µs| nomatch|[44m GET     [0m /examples/images/avatar.png
+2019/04/03 17:04:06.035 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    858.109µs|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 17:04:06.060 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    906.134µs| nomatch|[44m GET     [0m /static/upload/user-default-0.jpg
+2019/04/03 17:04:42.734 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.481455ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 17:04:42.770 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   3.042525ms|   match|[44m GET     [0m /static/upload/default/user-default-0.jpg
+2019/04/03 17:05:41.767 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    948.582µs|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 17:06:17.019 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.519964ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 17:06:25.326 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   4.799279ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 17:06:41.005 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.578884ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 17:07:03.828 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.070437ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 17:07:11.113 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    1.39156ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 17:07:42.143 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.503979ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 17:08:53.457 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 17:09:03.350 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 17:09:49.171 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 17:09:51.155 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 17:11:08.456 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.547528ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 17:11:11.941 [D] [server.go:2774]  |            ::1|[43m 404 [0m|     202.19µs| nomatch|[44m GET     [0m /singup
+2019/04/03 17:11:36.111 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 17:11:38.141 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 17:11:41.069 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.281763ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 17:11:42.718 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    219.584µs| nomatch|[44m GET     [0m /singup
+2019/04/03 17:12:02.950 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    183.347µs| nomatch|[44m GET     [0m /singup
+2019/04/03 17:12:04.379 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 17:12:06.364 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.059339ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 17:12:06.747 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 17:12:08.084 [D] [server.go:2774]  |            ::1|[43m 404 [0m|   2.541158ms| nomatch|[44m GET     [0m /signup
+2019/04/03 17:12:29.439 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 17:12:31.440 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 17:12:35.847 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.376951ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 17:12:37.980 [D] [server.go:2774]  |            ::1|[43m 404 [0m|      215.8µs| nomatch|[44m GET     [0m /signup
+2019/04/03 17:13:02.123 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 17:13:05.676 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 17:13:07.933 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 17:13:11.150 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   2.870438ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 17:13:11.691 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 17:13:12.987 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   4.904407ms|   match|[44m GET     [0m /signup   r:/signup
+2019/04/03 17:13:13.791 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 17:13:47.104 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   2.094756ms|   match|[44m GET     [0m /signup   r:/signup
+2019/04/03 17:14:09.157 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   2.316677ms|   match|[44m GET     [0m /signup   r:/signup
+2019/04/03 17:14:12.523 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    904.103µs|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 17:14:13.849 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    979.947µs|   match|[44m GET     [0m /signup   r:/signup
+2019/04/03 17:14:15.249 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.056044ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 17:14:16.221 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    994.387µs|   match|[44m GET     [0m /signup   r:/signup
+2019/04/03 17:14:18.954 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   2.063681ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 17:14:44.727 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   7.271936ms|   match|[44m GET     [0m /     r:/
+2019/04/03 17:15:06.452 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.380218ms|   match|[44m GET     [0m /     r:/
+2019/04/03 17:15:07.871 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.023221ms|   match|[44m GET     [0m /signup   r:/signup
+2019/04/03 17:15:17.094 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.517179ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 17:15:19.441 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.041234ms|   match|[44m GET     [0m /signup   r:/signup
+2019/04/03 17:29:32.715 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.186632ms|   match|[44m GET     [0m /signup   r:/signup
+2019/04/03 17:29:32.755 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    289.989µs|   match|[44m GET     [0m /static/css/account.css
+2019/04/03 17:29:36.878 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   2.831999ms|   match|[44m GET     [0m /     r:/
+2019/04/03 17:29:38.601 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.003256ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 17:29:41.153 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.459075ms|   match|[44m GET     [0m /signup   r:/signup
+2019/04/03 17:29:41.176 [D] [server.go:2774]  |            ::1|[47m 304 [0m|    116.359µs|   match|[44m GET     [0m /static/css/account.css
+2019/04/03 17:29:43.414 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.100711ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 17:29:50.034 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 17:29:54.336 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   2.634561ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 17:29:54.368 [D] [server.go:2774]  |            ::1|[47m 304 [0m|    865.342µs|   match|[44m GET     [0m /static/css/account.css
+2019/04/03 17:30:15.639 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.372108ms|   match|[44m GET     [0m /signup   r:/signup
+2019/04/03 17:30:15.673 [D] [server.go:2774]  |            ::1|[47m 304 [0m|     61.636µs|   match|[44m GET     [0m /static/css/account.css
+2019/04/03 17:30:16.729 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.129946ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 17:30:19.394 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.330316ms|   match|[44m GET     [0m /signup   r:/signup
+2019/04/03 17:30:20.637 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.271682ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 17:31:10.802 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    1.67983ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 17:31:10.837 [D] [server.go:2774]  |            ::1|[47m 304 [0m|     91.399µs|   match|[44m GET     [0m /static/css/account.css
+2019/04/03 17:31:15.060 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 17:31:16.112 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   9.768417ms|   match|[44m GET     [0m /     r:/
+2019/04/03 17:31:19.791 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.700451ms|   match|[44m GET     [0m /signin   r:/signin
+2019/04/03 17:31:25.100 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.142434ms|   match|[44m GET     [0m /signup   r:/signup
+2019/04/03 17:37:30.080 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 17:37:32.370 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 17:37:34.723 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 17:37:45.355 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   5.101784ms|   match|[44m GET     [0m /     r:/
+2019/04/03 17:37:48.197 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.154912ms|   match|[44m GET     [0m /new   r:/new
+2019/04/03 17:37:48.227 [D] [server.go:2774]  |            ::1|[47m 304 [0m|    502.036µs|   match|[44m GET     [0m /static/css/account.css
+2019/04/03 17:38:09.323 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 17:39:18.800 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 17:40:52.490 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 17:41:54.331 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/03 17:41:56.222 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/08 14:47:26.351 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/08 14:47:39.864 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.831673ms|   match|[44m GET     [0m /     r:/
+2019/04/08 14:47:40.037 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   2.998262ms|   match|[44m GET     [0m /static/css/bootstrap.min.css
+2019/04/08 14:47:40.058 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.139988ms|   match|[44m GET     [0m /static/js/bootstrap.min.js
+2019/04/08 14:47:46.358 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    771.106µs|   match|[44m GET     [0m /signup   r:/signup
+2019/04/08 14:47:46.382 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    642.923µs|   match|[44m GET     [0m /static/css/account.css
+2019/04/08 14:47:46.385 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   2.879067ms|   match|[44m GET     [0m /static/upload/default/user-default-0.jpg
+2019/04/08 14:47:58.761 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.442015ms|   match|[46m POST    [0m /signup   r:/signup
+2019/04/08 14:50:56.028 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/08 14:51:02.685 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/08 14:51:07.896 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   5.746888ms|   match|[44m GET     [0m /     r:/
+2019/04/08 14:51:09.944 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    915.775µs|   match|[44m GET     [0m /signup   r:/signup
+2019/04/08 14:51:13.880 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   2.640991ms|   match|[46m POST    [0m /signup   r:/signup
+2019/04/08 15:03:53.894 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/04/08 15:03:56.315 [I] [asm_amd64.s:1337]  http server Running on http://:3000

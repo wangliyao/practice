@@ -1,0 +1,124 @@
+<style>
+        .card {
+          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+          max-width: 90%;
+          margin: auto;
+          font-family: arial;
+        }
+        
+        .title {
+          color: grey;
+          font-size: 18px;
+        }
+        img {
+          border-radius: 50%;
+          width: 80px;
+          height: 80px;
+        }
+        
+        button {
+          border: none;
+          outline: 0;
+          display: inline-block;
+          padding: 8px;
+          color: white;
+          background-color: #000;
+          text-align: center;
+          cursor: pointer;
+          margin-left: 16%;
+          margin-bottom: 5%;
+          width: 40%;
+          font-size: 18px;
+        }
+        input {
+          height: 40px;
+          width: 40%;
+          padding: 10px;
+        }
+
+        .form-group {
+          display: flex;
+          flex-wrap: wrap;
+          align-items: center;
+          margin-bottom: 20px;
+        }
+        .form-group label {
+           width: 100px;
+           margin-left: 10px;
+           margin-bottom: 5px;
+           color: #555;
+        }
+        form{
+          padding: 10px 20px;
+        }
+        
+        a {
+          text-decoration: none;
+          font-size: 22px;
+          color: black;
+        }
+        
+        button:hover, a:hover {
+          opacity: 0.7;
+        }
+        </style>
+<div style="background: rgba(0,0,0,0)">
+    <h2>用户</h2>
+  <div class="card" >
+    {{ .err }}
+    <form method="POST" action="accounts" >
+        <!-- <img src = "/static/upload/default/user-default-0.jpg" alt = "John" style = "height: 20%;"> -->
+        <div class="form-group">
+          <label for="content">头像</label>
+          <input id="avatarId" hidden="hidden" name="avatarId"  value="{{.user.Avatar.Id}}" >
+          {{ if .user.Avatar }}
+            <img id="avatarUrl" src="{{.avatarUrl}}" alt="Avatar" />
+          {{ end }}
+            <input type="file" class="form-control" name="avatarUrl" accept="image/png, image/jpeg" id="uploadfile">
+        </div>
+        <div class="form-group">
+          <label for="content">用户名</label>
+          <input type="text" class="form-control" name="username" placeholder="用户名" value="{{ .user.Nickname  }}" required="required">
+        </div>
+        <div class="form-group">
+            <label for="content">邮箱</label>
+            <input type="text" class="form-control" name="email" placeholder="邮箱"value="{{ .user.Email  }}" required="required">
+        </div>    
+        <div class="form-group">
+            <label for="content">密码</label>
+          <input type="text" class="form-control" name="password" placeholder="密码" value="">
+        </div>
+        <button type="submit" class="btn btn-default">Submit</button>
+    </form>
+
+  </div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/jquery@1.12.4/dist/jquery.min.js"></script>
+
+<script>
+  $('input[type=file]').on('change', prepareUpload);
+
+  function prepareUpload(event){
+    files = event.target.files;
+    upload(files);
+  }
+
+  function upload(files){
+    var formData = new FormData();
+    formData.append('files', files[0]);
+    $.ajax({
+       url: "/admin/images",
+       type: 'POST',
+       data: formData,
+       cache: false,
+       dataType: 'json',
+       processData: false, 
+       contentType: false, 
+       success:function(data){
+         $("#avatarUrl").attr("src", "/static/upload/" + data["fileName"])
+         $("#avatarId").val(data["id"])
+         $("#avatorUrl").src = data["fileUrl"]
+       },
+     });
+  }
+</script>

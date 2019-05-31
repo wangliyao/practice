@@ -1,0 +1,71 @@
+
+<style>
+  .thumbnail .coverId{
+    position: relative;
+    display: inline-block;
+    width: 30%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+    float: left;
+  
+  }
+
+  .captions{
+    position: relative;
+    display: inline-block;
+    width: 65%;
+    height: 90%;
+    overflow: hidden;
+  }
+  .captions a{
+    display: inline-block;
+    line-height: 2;
+    font-size: 14px;
+    font-weight: 700;
+    text-decoration: none;
+    color: black;
+  }
+</style>
+ <div class="row" style="margin-top: 5% ">
+    <div class="col-md-8">
+        {{ range $k, $v := .posts }}
+        <div class="thumbnail" style="height: 215px;">
+          <a href="{{$v.Id}}" class="coverId">
+            <img src="/static/upload/{{$v.Cover.FileName }}" alt="Cover" style="width:95%; height: 200px;">
+          </a>
+            <div class="captions">
+              <a href="{{$v.Id}}" >
+                <h3>{{ $v.Title }}</h3>
+              </a>
+              <p>标签: {{ $v.Tags }}</p>
+              <p>作者: {{ $v.User.Nickname }}</p>
+            </div>
+        </div>
+        {{ end }}
+        {{if .paginator.HasPages}}
+        <ul class="pagination pagination">
+            {{if .paginator.HasPrev}}
+                <li><a href="{{.paginator.PageLinkFirst}}">First</a></li>
+                <li><a href="{{.paginator.PageLinkPrev}}">&laquo;</a></li>
+            {{else}}
+                <li class="disabled"><a>First</a></li>
+                <li class="disabled"><a>&laquo;</a></li>
+            {{end}}
+            {{range $index, $page := .paginator.Pages}}
+                <li{{if $.paginator.IsActive .}} class="active"{{end}}>
+                    <a href="{{$.paginator.PageLink $page}}">{{$page}}</a>
+                </li>
+            {{end}}
+            {{if .paginator.HasNext}}
+                <li><a href="{{.paginator.PageLinkNext}}">&raquo;</a></li>
+                <li><a href="{{.paginator.PageLinkLast}}">Last</a></li>
+            {{else}}
+                <li class="disabled"><a>&raquo;</a></li>
+                <li class="disabled"><a>Last</a></li>
+            {{end}}
+        </ul>
+        {{end}}
+    </div>
+    <div class="col-md-4">Flex item 2</div>
+  </div>
+</div>

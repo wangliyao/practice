@@ -1,0 +1,31 @@
+<link href="/static/css/account.css" rel="stylesheet">
+{{ if .errMsg }}
+    <div class="alert alert-danger" role="alert">
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+            {{.errMsg}}
+    </div>
+{{ end }}
+<div class="login-form">
+    <form action="/signin" method="post">
+    <div class="avatar">
+      <img src="/static/upload/default/user-default-0.jpg" alt="Avatar">
+    </div>
+        <h2 class="text-center">登陆</h2>   
+        <div class="form-group">
+          <input type="text" class="form-control" name="email" placeholder="邮箱" required="required">
+        </div>
+    <div class="form-group">
+            <input type="password" class="form-control" name="password" placeholder="密码" required="required">
+        </div>        
+        <div class="form-group">
+            <button type="submit" class="btn btn-primary btn-lg btn-block">登 陆</button>
+        </div>
+    <div class="clearfix">
+            <label class="pull-left checkbox-inline"><input type="checkbox">记住我</label>
+            <a href="#" class="pull-right">忘记密码？</a>
+        </div>
+    </form>
+    <p class="text-center small">是否有账户 <a href="/signup">注册!</a></p>
+</div>

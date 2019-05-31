@@ -1,0 +1,43 @@
+li a {
+    display: block;
+    color: #767676;
+    padding: 8px 16px;
+}
+
+li a:hover:not(.active) {
+  padding-right: 18px;
+  font-weight: 700;
+  color: #563d7c;
+  background-color: transparent;
+  border-right: 2px solid #563d7c;
+}
+
+div li a:hover {
+ background-color: white !important;
+}
+
+nav > a .active {
+  padding-right: 18px;
+  font-weight: 400;
+  color: #563d7c;
+  background-color: transparent;
+  border-right: 2px solid #563d7c;
+}
+
+nav.bs-docs-sidebar  {
+    display: block;
+    padding-right :20px
+}
+
+.content-tab ul.nav-tabs .close-tab{
+  position: relative;
+  right: -15px;
+  top: -10px;
+}
+.content-tab .tab-pane{
+  height: 800px;
+}
+.close-tab:hover{
+  color: #0e9aef;
+  cursor:pointer;
+}

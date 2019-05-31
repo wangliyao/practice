@@ -1,0 +1,1879 @@
+2019/05/07 13:34:44.607 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 13:34:44.723 [D] [server.go:2774]  |            ::1|[42m 200 [0m| 133.681714ms|   match|[44m GET     [0m /     r:/
+2019/05/07 13:34:44.805 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   5.980093ms|   match|[44m GET     [0m /static/css/bootstrap.min.css
+2019/05/07 13:34:44.805 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   2.462499ms|   match|[44m GET     [0m /static/js/bootstrap.min.js
+2019/05/07 13:34:44.833 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    270.357µs| nomatch|[44m GET     [0m /...
+2019/05/07 13:34:45.549 [D] [server.go:2774]  |            ::1|[43m 404 [0m|     189.63µs| nomatch|[44m GET     [0m /...
+2019/05/07 13:34:45.719 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    421.216µs| nomatch|[44m GET     [0m /favicon.ico
+2019/05/07 13:34:59.335 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 13:34:59.349 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  14.314446ms|   match|[44m GET     [0m /     r:/
+2019/05/07 13:35:14.642 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 13:35:14.648 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   6.343135ms|   match|[44m GET     [0m /     r:/
+2019/05/07 13:35:14.682 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    213.351µs| nomatch|[44m GET     [0m /...
+2019/05/07 13:35:21.313 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    399.836µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 13:37:14.023 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 13:37:14.030 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   8.323928ms|   match|[44m GET     [0m /     r:/
+2019/05/07 13:37:14.276 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    716.133µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 13:38:20.474 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 13:38:20.478 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   3.698188ms|   match|[44m GET     [0m /     r:/
+2019/05/07 13:38:20.711 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    263.299µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 13:39:38.704 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 13:39:38.711 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   7.632126ms|   match|[44m GET     [0m /     r:/
+2019/05/07 13:39:38.913 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    218.854µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 13:39:47.152 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 13:39:47.157 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   5.126931ms|   match|[44m GET     [0m /     r:/
+2019/05/07 13:39:47.369 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    301.654µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 13:40:46.525 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 13:40:46.533 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   8.054618ms|   match|[44m GET     [0m /     r:/
+2019/05/07 13:40:46.707 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    251.507µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 13:41:23.841 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 13:41:23.849 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   7.845026ms|   match|[44m GET     [0m /     r:/
+2019/05/07 13:41:24.091 [D] [server.go:2774]  |            ::1|[43m 404 [0m|     279.86µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 13:43:19.152 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 13:43:19.157 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   4.926958ms|   match|[44m GET     [0m /     r:/
+2019/05/07 13:43:19.402 [D] [server.go:2774]  |            ::1|[43m 404 [0m|     259.85µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 13:43:45.563 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 13:43:45.574 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  11.091906ms|   match|[44m GET     [0m /     r:/
+2019/05/07 13:43:45.769 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    200.735µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 13:43:57.593 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 13:43:57.597 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   4.351445ms|   match|[44m GET     [0m /     r:/
+2019/05/07 13:43:57.796 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    221.748µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 13:44:39.552 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 13:44:39.560 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   8.319741ms|   match|[44m GET     [0m /     r:/
+2019/05/07 13:44:39.830 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    210.327µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 13:50:08.649 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 13:50:08.655 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   5.125911ms|   match|[44m GET     [0m /     r:/
+2019/05/07 13:50:08.944 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    325.953µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 13:50:22.435 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 13:50:22.444 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   8.597104ms|   match|[44m GET     [0m /     r:/
+2019/05/07 13:50:22.699 [D] [server.go:2774]  |            ::1|[43m 404 [0m|   1.657778ms| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 13:51:47.534 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 13:51:47.544 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   10.01717ms|   match|[44m GET     [0m /     r:/
+2019/05/07 13:51:47.743 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    268.762µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 13:52:03.823 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 13:52:03.829 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   6.187579ms|   match|[44m GET     [0m /     r:/
+2019/05/07 13:52:04.009 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    405.215µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 13:53:37.334 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 13:53:37.345 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  10.933682ms|   match|[44m GET     [0m /     r:/
+2019/05/07 13:53:37.381 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    240.626µs| nomatch|[44m GET     [0m /...
+2019/05/07 13:53:37.525 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    185.956µs| nomatch|[44m GET     [0m /...
+2019/05/07 13:53:37.572 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    314.897µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 13:53:55.022 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 13:53:55.028 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   6.572719ms|   match|[44m GET     [0m /     r:/
+2019/05/07 13:53:55.063 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    243.252µs| nomatch|[44m GET     [0m /...
+2019/05/07 13:53:55.199 [D] [server.go:2774]  |            ::1|[43m 404 [0m|   1.573494ms| nomatch|[44m GET     [0m /...
+2019/05/07 13:53:55.241 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    285.945µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 13:54:06.708 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 13:54:06.716 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    7.95496ms|   match|[44m GET     [0m /     r:/
+2019/05/07 13:54:06.761 [D] [server.go:2774]  |            ::1|[43m 404 [0m|      234.7µs| nomatch|[44m GET     [0m /...
+2019/05/07 13:54:06.928 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    187.726µs| nomatch|[44m GET     [0m /...
+2019/05/07 13:54:06.995 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    374.124µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 13:56:36.414 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 13:56:36.424 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   9.636544ms|   match|[44m GET     [0m /     r:/
+2019/05/07 13:56:36.492 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    220.343µs| nomatch|[44m GET     [0m /...
+2019/05/07 13:56:36.665 [D] [server.go:2774]  |            ::1|[43m 404 [0m|     236.84µs| nomatch|[44m GET     [0m /...
+2019/05/07 13:56:36.720 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    210.482µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 13:56:47.602 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 13:56:47.607 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    4.87006ms|   match|[44m GET     [0m /     r:/
+2019/05/07 13:56:47.654 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    244.087µs| nomatch|[44m GET     [0m /...
+2019/05/07 13:56:47.751 [D] [server.go:2774]  |            ::1|[43m 404 [0m|     193.22µs| nomatch|[44m GET     [0m /...
+2019/05/07 13:56:47.796 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    2.11249ms| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 13:58:00.796 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 13:58:00.801 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   5.582799ms|   match|[44m GET     [0m /     r:/
+2019/05/07 13:58:00.847 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    210.049µs| nomatch|[44m GET     [0m /...
+2019/05/07 13:58:00.998 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    245.124µs| nomatch|[44m GET     [0m /...
+2019/05/07 13:58:01.057 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    185.533µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 13:58:16.899 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 13:58:16.905 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   5.971841ms|   match|[44m GET     [0m /     r:/
+2019/05/07 13:58:16.940 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    180.655µs| nomatch|[44m GET     [0m /...
+2019/05/07 13:58:17.125 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    184.333µs| nomatch|[44m GET     [0m /...
+2019/05/07 13:58:17.160 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    235.031µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 13:59:09.133 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 13:59:09.142 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   8.482149ms|   match|[44m GET     [0m /     r:/
+2019/05/07 13:59:09.191 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    153.906µs| nomatch|[44m GET     [0m /...
+2019/05/07 13:59:09.346 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    435.603µs| nomatch|[44m GET     [0m /...
+2019/05/07 13:59:09.440 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    191.209µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 13:59:38.345 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 13:59:38.349 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   4.490052ms|   match|[44m GET     [0m /     r:/
+2019/05/07 13:59:38.388 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    215.517µs| nomatch|[44m GET     [0m /...
+2019/05/07 13:59:38.564 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    468.248µs| nomatch|[44m GET     [0m /...
+2019/05/07 13:59:38.618 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    292.294µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 14:01:25.129 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 14:01:25.142 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  13.997278ms|   match|[44m GET     [0m /     r:/
+2019/05/07 14:01:25.183 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    626.125µs| nomatch|[44m GET     [0m /...
+2019/05/07 14:01:25.408 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    330.458µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 14:01:36.457 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 14:01:36.467 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   9.641314ms|   match|[44m GET     [0m /     r:/
+2019/05/07 14:01:36.515 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    158.854µs| nomatch|[44m GET     [0m /...
+2019/05/07 14:01:36.671 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    395.854µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 14:08:21.206 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 14:08:21.221 [D] [controller.go:282]  template Execute err: template: index.html:20:27: executing "index.html" at <.posts>: range can't iterate over {0xc0000d46e0  Nginx + Let's Rncrypt 配置 Https ### Let’s Encrypt 简介
+
+* 如果要启用HTTPS，我们就需要从证书授权机构(以下简称CA) 处获取一个证书，Let’s Encrypt 就是一个 CA。我们可以从 Let’s Encrypt 获得网站域名的免费的证书。这篇文章也主要讲的是通过 Let’s Encrypt + Nginx 来让网站升级到HTTPS。
+
+### Certbot 简介
+* Certbot 是Let’s Encrypt官方推荐的获取证书的客户端，可以帮我们获取免费的Let’s Encrypt 证书。Certbot 是支持所有 Unix 内核的操作系统的，个人博客的服务器系统是Ubuntu 14.04，这篇教程也是通过在个人博客上启用HTTPS的基础上完成的。
+* [certbot 链接下载地址](https://certbot.eff.org/lets-encrypt/ubuntutrusty-nginx)
+* 下载命令
+
+  ```
+   $ sudo apt-get update
+   $ sudo apt-get install software-properties-common
+   $ sudo add-apt-repository ppa:certbot/certbot
+   $ sudo apt-get update
+   $ sudo apt-get install python-certbot-nginx 
+  ```
+
+* 下载完之后需要将nginx中配置443端口, 因为certbot创建nginx时会使用到, 所以默认先将443端口打开
+
+* 有两种命令可以生成 nginx对应的配置一种是直接生成并带有nginx配置(这种生成的nginx 配置不易维护)
+> sudo certbot --nginx
+
+* 第二种是手动创建nginx 日志
+> sudo certbot --nginx
+
+* 再下来因为https 有时效性所以需要写一个corntab来进行重新注册
+> sudo certbot renew --dry-run
+
+### Nginx 配置
+* 上面最后会生成两个文件
+
+```
+ /etc/ssl/private/example_com.crt;
+ /etc/ssl/private/example_com.key;
+```
+
+* 将生成的文件写入对应的nginx配置文件中
+
+```
+server {
+  listen 80;
+  listen 443 ssl;
+  server_name www.example.com;
+  root /home/arons/theme-nexts;
+
+  ssl on;
+  ssl_certificate     /etc/letsencrypt/live/www.example.com/fullchain.pem;
+  ssl_certificate_key /etc/letsencrypt/live/www.example.com/privkey.pem;
+  index index.html;
+}
+``` Nginx 0 0xc0001ac180 [] {6 <nil>}}
+2019/05/07 14:08:21.222 [E] [server.go:2774]  template: index.html:20:27: executing "index.html" at <.posts>: range can't iterate over {0xc0000d46e0  Nginx + Let's Rncrypt 配置 Https ### Let’s Encrypt 简介
+
+* 如果要启用HTTPS，我们就需要从证书授权机构(以下简称CA) 处获取一个证书，Let’s Encrypt 就是一个 CA。我们可以从 Let’s Encrypt 获得网站域名的免费的证书。这篇文章也主要讲的是通过 Let’s Encrypt + Nginx 来让网站升级到HTTPS。
+
+### Certbot 简介
+* Certbot 是Let’s Encrypt官方推荐的获取证书的客户端，可以帮我们获取免费的Let’s Encrypt 证书。Certbot 是支持所有 Unix 内核的操作系统的，个人博客的服务器系统是Ubuntu 14.04，这篇教程也是通过在个人博客上启用HTTPS的基础上完成的。
+* [certbot 链接下载地址](https://certbot.eff.org/lets-encrypt/ubuntutrusty-nginx)
+* 下载命令
+
+  ```
+   $ sudo apt-get update
+   $ sudo apt-get install software-properties-common
+   $ sudo add-apt-repository ppa:certbot/certbot
+   $ sudo apt-get update
+   $ sudo apt-get install python-certbot-nginx 
+  ```
+
+* 下载完之后需要将nginx中配置443端口, 因为certbot创建nginx时会使用到, 所以默认先将443端口打开
+
+* 有两种命令可以生成 nginx对应的配置一种是直接生成并带有nginx配置(这种生成的nginx 配置不易维护)
+> sudo certbot --nginx
+
+* 第二种是手动创建nginx 日志
+> sudo certbot --nginx
+
+* 再下来因为https 有时效性所以需要写一个corntab来进行重新注册
+> sudo certbot renew --dry-run
+
+### Nginx 配置
+* 上面最后会生成两个文件
+
+```
+ /etc/ssl/private/example_com.crt;
+ /etc/ssl/private/example_com.key;
+```
+
+* 将生成的文件写入对应的nginx配置文件中
+
+```
+server {
+  listen 80;
+  listen 443 ssl;
+  server_name www.example.com;
+  root /home/arons/theme-nexts;
+
+  ssl on;
+  ssl_certificate     /etc/letsencrypt/live/www.example.com/fullchain.pem;
+  ssl_certificate_key /etc/letsencrypt/live/www.example.com/privkey.pem;
+  index index.html;
+}
+``` Nginx 0 0xc0001ac180 [] {6 <nil>}}
+2019/05/07 14:08:21.222 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  16.507605ms|   match|[44m GET     [0m /     r:/
+2019/05/07 14:09:12.119 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/05/07 14:09:12.781 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 14:09:12.804 [D] [controller.go:282]  template Execute err: template: index.html:20:27: executing "index.html" at <.posts>: range can't iterate over {0xc0000ecb00  Nginx + Let's Rncrypt 配置 Https ### Let’s Encrypt 简介
+
+* 如果要启用HTTPS，我们就需要从证书授权机构(以下简称CA) 处获取一个证书，Let’s Encrypt 就是一个 CA。我们可以从 Let’s Encrypt 获得网站域名的免费的证书。这篇文章也主要讲的是通过 Let’s Encrypt + Nginx 来让网站升级到HTTPS。
+
+### Certbot 简介
+* Certbot 是Let’s Encrypt官方推荐的获取证书的客户端，可以帮我们获取免费的Let’s Encrypt 证书。Certbot 是支持所有 Unix 内核的操作系统的，个人博客的服务器系统是Ubuntu 14.04，这篇教程也是通过在个人博客上启用HTTPS的基础上完成的。
+* [certbot 链接下载地址](https://certbot.eff.org/lets-encrypt/ubuntutrusty-nginx)
+* 下载命令
+
+  ```
+   $ sudo apt-get update
+   $ sudo apt-get install software-properties-common
+   $ sudo add-apt-repository ppa:certbot/certbot
+   $ sudo apt-get update
+   $ sudo apt-get install python-certbot-nginx 
+  ```
+
+* 下载完之后需要将nginx中配置443端口, 因为certbot创建nginx时会使用到, 所以默认先将443端口打开
+
+* 有两种命令可以生成 nginx对应的配置一种是直接生成并带有nginx配置(这种生成的nginx 配置不易维护)
+> sudo certbot --nginx
+
+* 第二种是手动创建nginx 日志
+> sudo certbot --nginx
+
+* 再下来因为https 有时效性所以需要写一个corntab来进行重新注册
+> sudo certbot renew --dry-run
+
+### Nginx 配置
+* 上面最后会生成两个文件
+
+```
+ /etc/ssl/private/example_com.crt;
+ /etc/ssl/private/example_com.key;
+```
+
+* 将生成的文件写入对应的nginx配置文件中
+
+```
+server {
+  listen 80;
+  listen 443 ssl;
+  server_name www.example.com;
+  root /home/arons/theme-nexts;
+
+  ssl on;
+  ssl_certificate     /etc/letsencrypt/live/www.example.com/fullchain.pem;
+  ssl_certificate_key /etc/letsencrypt/live/www.example.com/privkey.pem;
+  index index.html;
+}
+``` Nginx 0 0xc000220e00 [] {6 <nil>}}
+2019/05/07 14:09:12.804 [E] [server.go:2774]  template: index.html:20:27: executing "index.html" at <.posts>: range can't iterate over {0xc0000ecb00  Nginx + Let's Rncrypt 配置 Https ### Let’s Encrypt 简介
+
+* 如果要启用HTTPS，我们就需要从证书授权机构(以下简称CA) 处获取一个证书，Let’s Encrypt 就是一个 CA。我们可以从 Let’s Encrypt 获得网站域名的免费的证书。这篇文章也主要讲的是通过 Let’s Encrypt + Nginx 来让网站升级到HTTPS。
+
+### Certbot 简介
+* Certbot 是Let’s Encrypt官方推荐的获取证书的客户端，可以帮我们获取免费的Let’s Encrypt 证书。Certbot 是支持所有 Unix 内核的操作系统的，个人博客的服务器系统是Ubuntu 14.04，这篇教程也是通过在个人博客上启用HTTPS的基础上完成的。
+* [certbot 链接下载地址](https://certbot.eff.org/lets-encrypt/ubuntutrusty-nginx)
+* 下载命令
+
+  ```
+   $ sudo apt-get update
+   $ sudo apt-get install software-properties-common
+   $ sudo add-apt-repository ppa:certbot/certbot
+   $ sudo apt-get update
+   $ sudo apt-get install python-certbot-nginx 
+  ```
+
+* 下载完之后需要将nginx中配置443端口, 因为certbot创建nginx时会使用到, 所以默认先将443端口打开
+
+* 有两种命令可以生成 nginx对应的配置一种是直接生成并带有nginx配置(这种生成的nginx 配置不易维护)
+> sudo certbot --nginx
+
+* 第二种是手动创建nginx 日志
+> sudo certbot --nginx
+
+* 再下来因为https 有时效性所以需要写一个corntab来进行重新注册
+> sudo certbot renew --dry-run
+
+### Nginx 配置
+* 上面最后会生成两个文件
+
+```
+ /etc/ssl/private/example_com.crt;
+ /etc/ssl/private/example_com.key;
+```
+
+* 将生成的文件写入对应的nginx配置文件中
+
+```
+server {
+  listen 80;
+  listen 443 ssl;
+  server_name www.example.com;
+  root /home/arons/theme-nexts;
+
+  ssl on;
+  ssl_certificate     /etc/letsencrypt/live/www.example.com/fullchain.pem;
+  ssl_certificate_key /etc/letsencrypt/live/www.example.com/privkey.pem;
+  index index.html;
+}
+``` Nginx 0 0xc000220e00 [] {6 <nil>}}
+2019/05/07 14:09:12.804 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  22.802071ms|   match|[44m GET     [0m /     r:/
+2019/05/07 14:10:48.552 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/05/07 14:11:19.070 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 14:11:19.078 [D] [controller.go:282]  template Execute err: template: index.html:20:27: executing "index.html" at <.posts>: range can't iterate over {0xc000234370  Nginx + Let's Rncrypt 配置 Https ### Let’s Encrypt 简介
+
+* 如果要启用HTTPS，我们就需要从证书授权机构(以下简称CA) 处获取一个证书，Let’s Encrypt 就是一个 CA。我们可以从 Let’s Encrypt 获得网站域名的免费的证书。这篇文章也主要讲的是通过 Let’s Encrypt + Nginx 来让网站升级到HTTPS。
+
+### Certbot 简介
+* Certbot 是Let’s Encrypt官方推荐的获取证书的客户端，可以帮我们获取免费的Let’s Encrypt 证书。Certbot 是支持所有 Unix 内核的操作系统的，个人博客的服务器系统是Ubuntu 14.04，这篇教程也是通过在个人博客上启用HTTPS的基础上完成的。
+* [certbot 链接下载地址](https://certbot.eff.org/lets-encrypt/ubuntutrusty-nginx)
+* 下载命令
+
+  ```
+   $ sudo apt-get update
+   $ sudo apt-get install software-properties-common
+   $ sudo add-apt-repository ppa:certbot/certbot
+   $ sudo apt-get update
+   $ sudo apt-get install python-certbot-nginx 
+  ```
+
+* 下载完之后需要将nginx中配置443端口, 因为certbot创建nginx时会使用到, 所以默认先将443端口打开
+
+* 有两种命令可以生成 nginx对应的配置一种是直接生成并带有nginx配置(这种生成的nginx 配置不易维护)
+> sudo certbot --nginx
+
+* 第二种是手动创建nginx 日志
+> sudo certbot --nginx
+
+* 再下来因为https 有时效性所以需要写一个corntab来进行重新注册
+> sudo certbot renew --dry-run
+
+### Nginx 配置
+* 上面最后会生成两个文件
+
+```
+ /etc/ssl/private/example_com.crt;
+ /etc/ssl/private/example_com.key;
+```
+
+* 将生成的文件写入对应的nginx配置文件中
+
+```
+server {
+  listen 80;
+  listen 443 ssl;
+  server_name www.example.com;
+  root /home/arons/theme-nexts;
+
+  ssl on;
+  ssl_certificate     /etc/letsencrypt/live/www.example.com/fullchain.pem;
+  ssl_certificate_key /etc/letsencrypt/live/www.example.com/privkey.pem;
+  index index.html;
+}
+``` Nginx 0 0xc0003d0480 [] {6 <nil>}}
+2019/05/07 14:11:19.078 [E] [server.go:2774]  template: index.html:20:27: executing "index.html" at <.posts>: range can't iterate over {0xc000234370  Nginx + Let's Rncrypt 配置 Https ### Let’s Encrypt 简介
+
+* 如果要启用HTTPS，我们就需要从证书授权机构(以下简称CA) 处获取一个证书，Let’s Encrypt 就是一个 CA。我们可以从 Let’s Encrypt 获得网站域名的免费的证书。这篇文章也主要讲的是通过 Let’s Encrypt + Nginx 来让网站升级到HTTPS。
+
+### Certbot 简介
+* Certbot 是Let’s Encrypt官方推荐的获取证书的客户端，可以帮我们获取免费的Let’s Encrypt 证书。Certbot 是支持所有 Unix 内核的操作系统的，个人博客的服务器系统是Ubuntu 14.04，这篇教程也是通过在个人博客上启用HTTPS的基础上完成的。
+* [certbot 链接下载地址](https://certbot.eff.org/lets-encrypt/ubuntutrusty-nginx)
+* 下载命令
+
+  ```
+   $ sudo apt-get update
+   $ sudo apt-get install software-properties-common
+   $ sudo add-apt-repository ppa:certbot/certbot
+   $ sudo apt-get update
+   $ sudo apt-get install python-certbot-nginx 
+  ```
+
+* 下载完之后需要将nginx中配置443端口, 因为certbot创建nginx时会使用到, 所以默认先将443端口打开
+
+* 有两种命令可以生成 nginx对应的配置一种是直接生成并带有nginx配置(这种生成的nginx 配置不易维护)
+> sudo certbot --nginx
+
+* 第二种是手动创建nginx 日志
+> sudo certbot --nginx
+
+* 再下来因为https 有时效性所以需要写一个corntab来进行重新注册
+> sudo certbot renew --dry-run
+
+### Nginx 配置
+* 上面最后会生成两个文件
+
+```
+ /etc/ssl/private/example_com.crt;
+ /etc/ssl/private/example_com.key;
+```
+
+* 将生成的文件写入对应的nginx配置文件中
+
+```
+server {
+  listen 80;
+  listen 443 ssl;
+  server_name www.example.com;
+  root /home/arons/theme-nexts;
+
+  ssl on;
+  ssl_certificate     /etc/letsencrypt/live/www.example.com/fullchain.pem;
+  ssl_certificate_key /etc/letsencrypt/live/www.example.com/privkey.pem;
+  index index.html;
+}
+``` Nginx 0 0xc0003d0480 [] {6 <nil>}}
+2019/05/07 14:11:19.078 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   7.766739ms|   match|[44m GET     [0m /     r:/
+2019/05/07 14:12:12.434 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/05/07 14:12:14.787 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 14:12:14.801 [D] [controller.go:282]  template Execute err: template: index.html:20:27: executing "index.html" at <.posts>: range can't iterate over {0xc000440000  Nginx + Let's Rncrypt 配置 Https ### Let’s Encrypt 简介
+
+* 如果要启用HTTPS，我们就需要从证书授权机构(以下简称CA) 处获取一个证书，Let’s Encrypt 就是一个 CA。我们可以从 Let’s Encrypt 获得网站域名的免费的证书。这篇文章也主要讲的是通过 Let’s Encrypt + Nginx 来让网站升级到HTTPS。
+
+### Certbot 简介
+* Certbot 是Let’s Encrypt官方推荐的获取证书的客户端，可以帮我们获取免费的Let’s Encrypt 证书。Certbot 是支持所有 Unix 内核的操作系统的，个人博客的服务器系统是Ubuntu 14.04，这篇教程也是通过在个人博客上启用HTTPS的基础上完成的。
+* [certbot 链接下载地址](https://certbot.eff.org/lets-encrypt/ubuntutrusty-nginx)
+* 下载命令
+
+  ```
+   $ sudo apt-get update
+   $ sudo apt-get install software-properties-common
+   $ sudo add-apt-repository ppa:certbot/certbot
+   $ sudo apt-get update
+   $ sudo apt-get install python-certbot-nginx 
+  ```
+
+* 下载完之后需要将nginx中配置443端口, 因为certbot创建nginx时会使用到, 所以默认先将443端口打开
+
+* 有两种命令可以生成 nginx对应的配置一种是直接生成并带有nginx配置(这种生成的nginx 配置不易维护)
+> sudo certbot --nginx
+
+* 第二种是手动创建nginx 日志
+> sudo certbot --nginx
+
+* 再下来因为https 有时效性所以需要写一个corntab来进行重新注册
+> sudo certbot renew --dry-run
+
+### Nginx 配置
+* 上面最后会生成两个文件
+
+```
+ /etc/ssl/private/example_com.crt;
+ /etc/ssl/private/example_com.key;
+```
+
+* 将生成的文件写入对应的nginx配置文件中
+
+```
+server {
+  listen 80;
+  listen 443 ssl;
+  server_name www.example.com;
+  root /home/arons/theme-nexts;
+
+  ssl on;
+  ssl_certificate     /etc/letsencrypt/live/www.example.com/fullchain.pem;
+  ssl_certificate_key /etc/letsencrypt/live/www.example.com/privkey.pem;
+  index index.html;
+}
+``` Nginx 0 0xc0000981c0 [] {6 <nil>}}
+2019/05/07 14:12:14.802 [E] [server.go:2774]  template: index.html:20:27: executing "index.html" at <.posts>: range can't iterate over {0xc000440000  Nginx + Let's Rncrypt 配置 Https ### Let’s Encrypt 简介
+
+* 如果要启用HTTPS，我们就需要从证书授权机构(以下简称CA) 处获取一个证书，Let’s Encrypt 就是一个 CA。我们可以从 Let’s Encrypt 获得网站域名的免费的证书。这篇文章也主要讲的是通过 Let’s Encrypt + Nginx 来让网站升级到HTTPS。
+
+### Certbot 简介
+* Certbot 是Let’s Encrypt官方推荐的获取证书的客户端，可以帮我们获取免费的Let’s Encrypt 证书。Certbot 是支持所有 Unix 内核的操作系统的，个人博客的服务器系统是Ubuntu 14.04，这篇教程也是通过在个人博客上启用HTTPS的基础上完成的。
+* [certbot 链接下载地址](https://certbot.eff.org/lets-encrypt/ubuntutrusty-nginx)
+* 下载命令
+
+  ```
+   $ sudo apt-get update
+   $ sudo apt-get install software-properties-common
+   $ sudo add-apt-repository ppa:certbot/certbot
+   $ sudo apt-get update
+   $ sudo apt-get install python-certbot-nginx 
+  ```
+
+* 下载完之后需要将nginx中配置443端口, 因为certbot创建nginx时会使用到, 所以默认先将443端口打开
+
+* 有两种命令可以生成 nginx对应的配置一种是直接生成并带有nginx配置(这种生成的nginx 配置不易维护)
+> sudo certbot --nginx
+
+* 第二种是手动创建nginx 日志
+> sudo certbot --nginx
+
+* 再下来因为https 有时效性所以需要写一个corntab来进行重新注册
+> sudo certbot renew --dry-run
+
+### Nginx 配置
+* 上面最后会生成两个文件
+
+```
+ /etc/ssl/private/example_com.crt;
+ /etc/ssl/private/example_com.key;
+```
+
+* 将生成的文件写入对应的nginx配置文件中
+
+```
+server {
+  listen 80;
+  listen 443 ssl;
+  server_name www.example.com;
+  root /home/arons/theme-nexts;
+
+  ssl on;
+  ssl_certificate     /etc/letsencrypt/live/www.example.com/fullchain.pem;
+  ssl_certificate_key /etc/letsencrypt/live/www.example.com/privkey.pem;
+  index index.html;
+}
+``` Nginx 0 0xc0000981c0 [] {6 <nil>}}
+2019/05/07 14:12:14.802 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  15.895025ms|   match|[44m GET     [0m /     r:/
+2019/05/07 14:13:15.910 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 14:13:15.916 [D] [controller.go:282]  template Execute err: template: index.html:20:27: executing "index.html" at <.posts>: range can't iterate over {0xc0000ba790  Nginx + Let's Rncrypt 配置 Https ### Let’s Encrypt 简介
+
+* 如果要启用HTTPS，我们就需要从证书授权机构(以下简称CA) 处获取一个证书，Let’s Encrypt 就是一个 CA。我们可以从 Let’s Encrypt 获得网站域名的免费的证书。这篇文章也主要讲的是通过 Let’s Encrypt + Nginx 来让网站升级到HTTPS。
+
+### Certbot 简介
+* Certbot 是Let’s Encrypt官方推荐的获取证书的客户端，可以帮我们获取免费的Let’s Encrypt 证书。Certbot 是支持所有 Unix 内核的操作系统的，个人博客的服务器系统是Ubuntu 14.04，这篇教程也是通过在个人博客上启用HTTPS的基础上完成的。
+* [certbot 链接下载地址](https://certbot.eff.org/lets-encrypt/ubuntutrusty-nginx)
+* 下载命令
+
+  ```
+   $ sudo apt-get update
+   $ sudo apt-get install software-properties-common
+   $ sudo add-apt-repository ppa:certbot/certbot
+   $ sudo apt-get update
+   $ sudo apt-get install python-certbot-nginx 
+  ```
+
+* 下载完之后需要将nginx中配置443端口, 因为certbot创建nginx时会使用到, 所以默认先将443端口打开
+
+* 有两种命令可以生成 nginx对应的配置一种是直接生成并带有nginx配置(这种生成的nginx 配置不易维护)
+> sudo certbot --nginx
+
+* 第二种是手动创建nginx 日志
+> sudo certbot --nginx
+
+* 再下来因为https 有时效性所以需要写一个corntab来进行重新注册
+> sudo certbot renew --dry-run
+
+### Nginx 配置
+* 上面最后会生成两个文件
+
+```
+ /etc/ssl/private/example_com.crt;
+ /etc/ssl/private/example_com.key;
+```
+
+* 将生成的文件写入对应的nginx配置文件中
+
+```
+server {
+  listen 80;
+  listen 443 ssl;
+  server_name www.example.com;
+  root /home/arons/theme-nexts;
+
+  ssl on;
+  ssl_certificate     /etc/letsencrypt/live/www.example.com/fullchain.pem;
+  ssl_certificate_key /etc/letsencrypt/live/www.example.com/privkey.pem;
+  index index.html;
+}
+``` Nginx 0 0xc000134280 [] {6 <nil>}}
+2019/05/07 14:13:15.916 [E] [server.go:2774]  template: index.html:20:27: executing "index.html" at <.posts>: range can't iterate over {0xc0000ba790  Nginx + Let's Rncrypt 配置 Https ### Let’s Encrypt 简介
+
+* 如果要启用HTTPS，我们就需要从证书授权机构(以下简称CA) 处获取一个证书，Let’s Encrypt 就是一个 CA。我们可以从 Let’s Encrypt 获得网站域名的免费的证书。这篇文章也主要讲的是通过 Let’s Encrypt + Nginx 来让网站升级到HTTPS。
+
+### Certbot 简介
+* Certbot 是Let’s Encrypt官方推荐的获取证书的客户端，可以帮我们获取免费的Let’s Encrypt 证书。Certbot 是支持所有 Unix 内核的操作系统的，个人博客的服务器系统是Ubuntu 14.04，这篇教程也是通过在个人博客上启用HTTPS的基础上完成的。
+* [certbot 链接下载地址](https://certbot.eff.org/lets-encrypt/ubuntutrusty-nginx)
+* 下载命令
+
+  ```
+   $ sudo apt-get update
+   $ sudo apt-get install software-properties-common
+   $ sudo add-apt-repository ppa:certbot/certbot
+   $ sudo apt-get update
+   $ sudo apt-get install python-certbot-nginx 
+  ```
+
+* 下载完之后需要将nginx中配置443端口, 因为certbot创建nginx时会使用到, 所以默认先将443端口打开
+
+* 有两种命令可以生成 nginx对应的配置一种是直接生成并带有nginx配置(这种生成的nginx 配置不易维护)
+> sudo certbot --nginx
+
+* 第二种是手动创建nginx 日志
+> sudo certbot --nginx
+
+* 再下来因为https 有时效性所以需要写一个corntab来进行重新注册
+> sudo certbot renew --dry-run
+
+### Nginx 配置
+* 上面最后会生成两个文件
+
+```
+ /etc/ssl/private/example_com.crt;
+ /etc/ssl/private/example_com.key;
+```
+
+* 将生成的文件写入对应的nginx配置文件中
+
+```
+server {
+  listen 80;
+  listen 443 ssl;
+  server_name www.example.com;
+  root /home/arons/theme-nexts;
+
+  ssl on;
+  ssl_certificate     /etc/letsencrypt/live/www.example.com/fullchain.pem;
+  ssl_certificate_key /etc/letsencrypt/live/www.example.com/privkey.pem;
+  index index.html;
+}
+``` Nginx 0 0xc000134280 [] {6 <nil>}}
+2019/05/07 14:13:15.916 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   5.964299ms|   match|[44m GET     [0m /     r:/
+2019/05/07 14:13:28.826 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 14:13:28.830 [D] [controller.go:282]  template Execute err: template: index.html:20:27: executing "index.html" at <.posts>: range can't iterate over {0xc00023c580  Nginx + Let's Rncrypt 配置 Https ### Let’s Encrypt 简介
+
+* 如果要启用HTTPS，我们就需要从证书授权机构(以下简称CA) 处获取一个证书，Let’s Encrypt 就是一个 CA。我们可以从 Let’s Encrypt 获得网站域名的免费的证书。这篇文章也主要讲的是通过 Let’s Encrypt + Nginx 来让网站升级到HTTPS。
+
+### Certbot 简介
+* Certbot 是Let’s Encrypt官方推荐的获取证书的客户端，可以帮我们获取免费的Let’s Encrypt 证书。Certbot 是支持所有 Unix 内核的操作系统的，个人博客的服务器系统是Ubuntu 14.04，这篇教程也是通过在个人博客上启用HTTPS的基础上完成的。
+* [certbot 链接下载地址](https://certbot.eff.org/lets-encrypt/ubuntutrusty-nginx)
+* 下载命令
+
+  ```
+   $ sudo apt-get update
+   $ sudo apt-get install software-properties-common
+   $ sudo add-apt-repository ppa:certbot/certbot
+   $ sudo apt-get update
+   $ sudo apt-get install python-certbot-nginx 
+  ```
+
+* 下载完之后需要将nginx中配置443端口, 因为certbot创建nginx时会使用到, 所以默认先将443端口打开
+
+* 有两种命令可以生成 nginx对应的配置一种是直接生成并带有nginx配置(这种生成的nginx 配置不易维护)
+> sudo certbot --nginx
+
+* 第二种是手动创建nginx 日志
+> sudo certbot --nginx
+
+* 再下来因为https 有时效性所以需要写一个corntab来进行重新注册
+> sudo certbot renew --dry-run
+
+### Nginx 配置
+* 上面最后会生成两个文件
+
+```
+ /etc/ssl/private/example_com.crt;
+ /etc/ssl/private/example_com.key;
+```
+
+* 将生成的文件写入对应的nginx配置文件中
+
+```
+server {
+  listen 80;
+  listen 443 ssl;
+  server_name www.example.com;
+  root /home/arons/theme-nexts;
+
+  ssl on;
+  ssl_certificate     /etc/letsencrypt/live/www.example.com/fullchain.pem;
+  ssl_certificate_key /etc/letsencrypt/live/www.example.com/privkey.pem;
+  index index.html;
+}
+``` Nginx 0 0xc000228e00 [] {6 <nil>}}
+2019/05/07 14:13:28.830 [E] [server.go:2774]  template: index.html:20:27: executing "index.html" at <.posts>: range can't iterate over {0xc00023c580  Nginx + Let's Rncrypt 配置 Https ### Let’s Encrypt 简介
+
+* 如果要启用HTTPS，我们就需要从证书授权机构(以下简称CA) 处获取一个证书，Let’s Encrypt 就是一个 CA。我们可以从 Let’s Encrypt 获得网站域名的免费的证书。这篇文章也主要讲的是通过 Let’s Encrypt + Nginx 来让网站升级到HTTPS。
+
+### Certbot 简介
+* Certbot 是Let’s Encrypt官方推荐的获取证书的客户端，可以帮我们获取免费的Let’s Encrypt 证书。Certbot 是支持所有 Unix 内核的操作系统的，个人博客的服务器系统是Ubuntu 14.04，这篇教程也是通过在个人博客上启用HTTPS的基础上完成的。
+* [certbot 链接下载地址](https://certbot.eff.org/lets-encrypt/ubuntutrusty-nginx)
+* 下载命令
+
+  ```
+   $ sudo apt-get update
+   $ sudo apt-get install software-properties-common
+   $ sudo add-apt-repository ppa:certbot/certbot
+   $ sudo apt-get update
+   $ sudo apt-get install python-certbot-nginx 
+  ```
+
+* 下载完之后需要将nginx中配置443端口, 因为certbot创建nginx时会使用到, 所以默认先将443端口打开
+
+* 有两种命令可以生成 nginx对应的配置一种是直接生成并带有nginx配置(这种生成的nginx 配置不易维护)
+> sudo certbot --nginx
+
+* 第二种是手动创建nginx 日志
+> sudo certbot --nginx
+
+* 再下来因为https 有时效性所以需要写一个corntab来进行重新注册
+> sudo certbot renew --dry-run
+
+### Nginx 配置
+* 上面最后会生成两个文件
+
+```
+ /etc/ssl/private/example_com.crt;
+ /etc/ssl/private/example_com.key;
+```
+
+* 将生成的文件写入对应的nginx配置文件中
+
+```
+server {
+  listen 80;
+  listen 443 ssl;
+  server_name www.example.com;
+  root /home/arons/theme-nexts;
+
+  ssl on;
+  ssl_certificate     /etc/letsencrypt/live/www.example.com/fullchain.pem;
+  ssl_certificate_key /etc/letsencrypt/live/www.example.com/privkey.pem;
+  index index.html;
+}
+``` Nginx 0 0xc000228e00 [] {6 <nil>}}
+2019/05/07 14:13:28.830 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   4.072276ms|   match|[44m GET     [0m /     r:/
+2019/05/07 14:14:05.512 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 14:14:05.512 [I] [main.go:10]  admin/index.html
+2019/05/07 14:14:05.520 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   8.067007ms|   match|[44m GET     [0m /admin   r:/admin/
+2019/05/07 14:14:05.606 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   2.280487ms|   match|[44m GET     [0m /static/js/admin_basic.js
+2019/05/07 14:14:05.609 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   4.366735ms|   match|[44m GET     [0m /static/css/admin_basic.css
+2019/05/07 14:14:05.750 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 14:14:05.750 [I] [main.go:10]  admin/index.html
+2019/05/07 14:14:05.752 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   2.384994ms|   match|[44m GET     [0m /admin   r:/admin/
+2019/05/07 14:14:05.753 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 14:14:05.754 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.732038ms|   match|[44m GET     [0m /admin/content   r:/admin/content
+2019/05/07 14:14:05.828 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    278.675µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 14:14:06.440 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 14:14:06.445 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   5.429661ms|   match|[44m GET     [0m /admin/content   r:/admin/content
+2019/05/07 14:14:06.660 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    243.837µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 14:14:07.476 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 14:14:07.479 [I] [value.go:447]  结构是 [0xc000252f50]
+2019/05/07 14:14:07.481 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   4.967421ms|   match|[44m GET     [0m /admin/posts   r:/admin/posts
+2019/05/07 14:14:07.569 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   2.593969ms|   match|[44m GET     [0m /static/css/table.css
+2019/05/07 14:14:07.745 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    240.835µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 14:15:24.270 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 14:15:24.278 [D] [controller.go:282]  template Execute err: template: index.html:20:27: executing "index.html" at <.posts>: range can't iterate over {0xc0000ba6e0  Nginx + Let's Rncrypt 配置 Https ### Let’s Encrypt 简介
+
+* 如果要启用HTTPS，我们就需要从证书授权机构(以下简称CA) 处获取一个证书，Let’s Encrypt 就是一个 CA。我们可以从 Let’s Encrypt 获得网站域名的免费的证书。这篇文章也主要讲的是通过 Let’s Encrypt + Nginx 来让网站升级到HTTPS。
+
+### Certbot 简介
+* Certbot 是Let’s Encrypt官方推荐的获取证书的客户端，可以帮我们获取免费的Let’s Encrypt 证书。Certbot 是支持所有 Unix 内核的操作系统的，个人博客的服务器系统是Ubuntu 14.04，这篇教程也是通过在个人博客上启用HTTPS的基础上完成的。
+* [certbot 链接下载地址](https://certbot.eff.org/lets-encrypt/ubuntutrusty-nginx)
+* 下载命令
+
+  ```
+   $ sudo apt-get update
+   $ sudo apt-get install software-properties-common
+   $ sudo add-apt-repository ppa:certbot/certbot
+   $ sudo apt-get update
+   $ sudo apt-get install python-certbot-nginx 
+  ```
+
+* 下载完之后需要将nginx中配置443端口, 因为certbot创建nginx时会使用到, 所以默认先将443端口打开
+
+* 有两种命令可以生成 nginx对应的配置一种是直接生成并带有nginx配置(这种生成的nginx 配置不易维护)
+> sudo certbot --nginx
+
+* 第二种是手动创建nginx 日志
+> sudo certbot --nginx
+
+* 再下来因为https 有时效性所以需要写一个corntab来进行重新注册
+> sudo certbot renew --dry-run
+
+### Nginx 配置
+* 上面最后会生成两个文件
+
+```
+ /etc/ssl/private/example_com.crt;
+ /etc/ssl/private/example_com.key;
+```
+
+* 将生成的文件写入对应的nginx配置文件中
+
+```
+server {
+  listen 80;
+  listen 443 ssl;
+  server_name www.example.com;
+  root /home/arons/theme-nexts;
+
+  ssl on;
+  ssl_certificate     /etc/letsencrypt/live/www.example.com/fullchain.pem;
+  ssl_certificate_key /etc/letsencrypt/live/www.example.com/privkey.pem;
+  index index.html;
+}
+``` Nginx 0 0xc0001e0180 [] {6 <nil>}}
+2019/05/07 14:15:24.278 [E] [server.go:2774]  template: index.html:20:27: executing "index.html" at <.posts>: range can't iterate over {0xc0000ba6e0  Nginx + Let's Rncrypt 配置 Https ### Let’s Encrypt 简介
+
+* 如果要启用HTTPS，我们就需要从证书授权机构(以下简称CA) 处获取一个证书，Let’s Encrypt 就是一个 CA。我们可以从 Let’s Encrypt 获得网站域名的免费的证书。这篇文章也主要讲的是通过 Let’s Encrypt + Nginx 来让网站升级到HTTPS。
+
+### Certbot 简介
+* Certbot 是Let’s Encrypt官方推荐的获取证书的客户端，可以帮我们获取免费的Let’s Encrypt 证书。Certbot 是支持所有 Unix 内核的操作系统的，个人博客的服务器系统是Ubuntu 14.04，这篇教程也是通过在个人博客上启用HTTPS的基础上完成的。
+* [certbot 链接下载地址](https://certbot.eff.org/lets-encrypt/ubuntutrusty-nginx)
+* 下载命令
+
+  ```
+   $ sudo apt-get update
+   $ sudo apt-get install software-properties-common
+   $ sudo add-apt-repository ppa:certbot/certbot
+   $ sudo apt-get update
+   $ sudo apt-get install python-certbot-nginx 
+  ```
+
+* 下载完之后需要将nginx中配置443端口, 因为certbot创建nginx时会使用到, 所以默认先将443端口打开
+
+* 有两种命令可以生成 nginx对应的配置一种是直接生成并带有nginx配置(这种生成的nginx 配置不易维护)
+> sudo certbot --nginx
+
+* 第二种是手动创建nginx 日志
+> sudo certbot --nginx
+
+* 再下来因为https 有时效性所以需要写一个corntab来进行重新注册
+> sudo certbot renew --dry-run
+
+### Nginx 配置
+* 上面最后会生成两个文件
+
+```
+ /etc/ssl/private/example_com.crt;
+ /etc/ssl/private/example_com.key;
+```
+
+* 将生成的文件写入对应的nginx配置文件中
+
+```
+server {
+  listen 80;
+  listen 443 ssl;
+  server_name www.example.com;
+  root /home/arons/theme-nexts;
+
+  ssl on;
+  ssl_certificate     /etc/letsencrypt/live/www.example.com/fullchain.pem;
+  ssl_certificate_key /etc/letsencrypt/live/www.example.com/privkey.pem;
+  index index.html;
+}
+``` Nginx 0 0xc0001e0180 [] {6 <nil>}}
+2019/05/07 14:15:24.278 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   7.716434ms|   match|[44m GET     [0m /     r:/
+2019/05/07 14:16:10.185 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 14:16:10.195 [D] [controller.go:282]  template Execute err: template: index.html:20:27: executing "index.html" at <.posts>: range can't iterate over {0xc00023c2c0  Nginx + Let's Rncrypt 配置 Https ### Let’s Encrypt 简介
+
+* 如果要启用HTTPS，我们就需要从证书授权机构(以下简称CA) 处获取一个证书，Let’s Encrypt 就是一个 CA。我们可以从 Let’s Encrypt 获得网站域名的免费的证书。这篇文章也主要讲的是通过 Let’s Encrypt + Nginx 来让网站升级到HTTPS。
+
+### Certbot 简介
+* Certbot 是Let’s Encrypt官方推荐的获取证书的客户端，可以帮我们获取免费的Let’s Encrypt 证书。Certbot 是支持所有 Unix 内核的操作系统的，个人博客的服务器系统是Ubuntu 14.04，这篇教程也是通过在个人博客上启用HTTPS的基础上完成的。
+* [certbot 链接下载地址](https://certbot.eff.org/lets-encrypt/ubuntutrusty-nginx)
+* 下载命令
+
+  ```
+   $ sudo apt-get update
+   $ sudo apt-get install software-properties-common
+   $ sudo add-apt-repository ppa:certbot/certbot
+   $ sudo apt-get update
+   $ sudo apt-get install python-certbot-nginx 
+  ```
+
+* 下载完之后需要将nginx中配置443端口, 因为certbot创建nginx时会使用到, 所以默认先将443端口打开
+
+* 有两种命令可以生成 nginx对应的配置一种是直接生成并带有nginx配置(这种生成的nginx 配置不易维护)
+> sudo certbot --nginx
+
+* 第二种是手动创建nginx 日志
+> sudo certbot --nginx
+
+* 再下来因为https 有时效性所以需要写一个corntab来进行重新注册
+> sudo certbot renew --dry-run
+
+### Nginx 配置
+* 上面最后会生成两个文件
+
+```
+ /etc/ssl/private/example_com.crt;
+ /etc/ssl/private/example_com.key;
+```
+
+* 将生成的文件写入对应的nginx配置文件中
+
+```
+server {
+  listen 80;
+  listen 443 ssl;
+  server_name www.example.com;
+  root /home/arons/theme-nexts;
+
+  ssl on;
+  ssl_certificate     /etc/letsencrypt/live/www.example.com/fullchain.pem;
+  ssl_certificate_key /etc/letsencrypt/live/www.example.com/privkey.pem;
+  index index.html;
+}
+``` Nginx 0 0xc000134200 [] {6 <nil>}}
+2019/05/07 14:16:10.195 [E] [server.go:2774]  template: index.html:20:27: executing "index.html" at <.posts>: range can't iterate over {0xc00023c2c0  Nginx + Let's Rncrypt 配置 Https ### Let’s Encrypt 简介
+
+* 如果要启用HTTPS，我们就需要从证书授权机构(以下简称CA) 处获取一个证书，Let’s Encrypt 就是一个 CA。我们可以从 Let’s Encrypt 获得网站域名的免费的证书。这篇文章也主要讲的是通过 Let’s Encrypt + Nginx 来让网站升级到HTTPS。
+
+### Certbot 简介
+* Certbot 是Let’s Encrypt官方推荐的获取证书的客户端，可以帮我们获取免费的Let’s Encrypt 证书。Certbot 是支持所有 Unix 内核的操作系统的，个人博客的服务器系统是Ubuntu 14.04，这篇教程也是通过在个人博客上启用HTTPS的基础上完成的。
+* [certbot 链接下载地址](https://certbot.eff.org/lets-encrypt/ubuntutrusty-nginx)
+* 下载命令
+
+  ```
+   $ sudo apt-get update
+   $ sudo apt-get install software-properties-common
+   $ sudo add-apt-repository ppa:certbot/certbot
+   $ sudo apt-get update
+   $ sudo apt-get install python-certbot-nginx 
+  ```
+
+* 下载完之后需要将nginx中配置443端口, 因为certbot创建nginx时会使用到, 所以默认先将443端口打开
+
+* 有两种命令可以生成 nginx对应的配置一种是直接生成并带有nginx配置(这种生成的nginx 配置不易维护)
+> sudo certbot --nginx
+
+* 第二种是手动创建nginx 日志
+> sudo certbot --nginx
+
+* 再下来因为https 有时效性所以需要写一个corntab来进行重新注册
+> sudo certbot renew --dry-run
+
+### Nginx 配置
+* 上面最后会生成两个文件
+
+```
+ /etc/ssl/private/example_com.crt;
+ /etc/ssl/private/example_com.key;
+```
+
+* 将生成的文件写入对应的nginx配置文件中
+
+```
+server {
+  listen 80;
+  listen 443 ssl;
+  server_name www.example.com;
+  root /home/arons/theme-nexts;
+
+  ssl on;
+  ssl_certificate     /etc/letsencrypt/live/www.example.com/fullchain.pem;
+  ssl_certificate_key /etc/letsencrypt/live/www.example.com/privkey.pem;
+  index index.html;
+}
+``` Nginx 0 0xc000134200 [] {6 <nil>}}
+2019/05/07 14:16:10.195 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   9.567309ms|   match|[44m GET     [0m /     r:/
+2019/05/07 14:18:29.822 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/05/07 14:18:30.171 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 14:18:30.208 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  36.741133ms|   match|[44m GET     [0m /     r:/
+2019/05/07 14:18:30.561 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    197.248µs| nomatch|[44m GET     [0m /...
+2019/05/07 14:18:30.756 [D] [server.go:2774]  |            ::1|[43m 404 [0m|     249.11µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 14:18:46.435 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 14:18:46.450 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  15.719268ms|   match|[44m GET     [0m /     r:/
+2019/05/07 14:18:46.508 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    230.573µs| nomatch|[44m GET     [0m /...
+2019/05/07 14:18:46.758 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    310.205µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 14:20:16.357 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/05/07 14:54:10.360 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/05/07 14:54:46.809 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/05/07 14:54:49.872 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/05/07 14:56:21.513 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 14:56:21.530 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  15.670808ms|   match|[44m GET     [0m /     r:/
+2019/05/07 14:56:21.883 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    418.316µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 14:57:31.429 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/05/07 14:59:06.255 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 14:59:06.271 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   15.65257ms|   match|[44m GET     [0m /     r:/
+2019/05/07 14:59:06.486 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    287.935µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:00:57.549 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/05/07 15:01:04.833 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:01:04.844 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  11.329373ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:01:05.102 [D] [server.go:2774]  |            ::1|[43m 404 [0m|     245.08µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:02:55.505 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:02:55.516 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  11.934841ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:02:55.790 [D] [server.go:2774]  |            ::1|[43m 404 [0m|     381.02µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:02:59.515 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/05/07 15:03:02.187 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:03:02.204 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  16.956092ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:03:02.236 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    204.778µs| nomatch|[44m GET     [0m /...
+2019/05/07 15:03:02.486 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    243.618µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:03:54.735 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:03:54.745 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    9.69259ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:03:54.802 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    196.868µs| nomatch|[44m GET     [0m /...
+2019/05/07 15:03:55.033 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    942.467µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:04:44.326 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:04:44.330 [D] [controller.go:282]  template Execute err: template: index.html:22:20: executing "index.html" at <$v.Avatar.FileName>: can't evaluate field Avatar in type *models.Post
+2019/05/07 15:04:44.330 [E] [server.go:2774]  template: index.html:22:20: executing "index.html" at <$v.Avatar.FileName>: can't evaluate field Avatar in type *models.Post
+2019/05/07 15:04:44.330 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   3.944007ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:05:04.310 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:05:04.317 [D] [controller.go:282]  template Execute err: template: index.html:22:20: executing "index.html" at <$v.Avatar>: can't evaluate field Avatar in type *models.Post
+2019/05/07 15:05:04.317 [E] [server.go:2774]  template: index.html:22:20: executing "index.html" at <$v.Avatar>: can't evaluate field Avatar in type *models.Post
+2019/05/07 15:05:04.317 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   6.617525ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:05:24.843 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:05:24.852 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   9.208294ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:05:24.902 [D] [server.go:2774]  |            ::1|[43m 404 [0m|     178.97µs| nomatch|[44m GET     [0m /...
+2019/05/07 15:05:25.093 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    709.265µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:05:33.785 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:05:33.796 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  10.993572ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:05:33.847 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    298.682µs| nomatch|[44m GET     [0m /...
+2019/05/07 15:05:34.044 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    213.857µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:06:02.907 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:06:02.912 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   5.623477ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:06:02.969 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   3.265702ms|   match|[44m GET     [0m /static/upload/下载.png
+2019/05/07 15:06:03.188 [D] [server.go:2774]  |            ::1|[43m 404 [0m|     283.21µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:07:19.173 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:07:19.179 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    6.56057ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:07:19.521 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    250.962µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:07:39.792 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:07:39.799 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   6.913116ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:07:40.057 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    179.931µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:08:12.197 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:08:12.203 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    5.96683ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:08:12.489 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    381.928µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:09:10.443 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:09:10.448 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   5.631035ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:09:10.646 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    231.674µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:10:04.267 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:10:04.284 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  16.873141ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:10:04.763 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    259.305µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:10:17.974 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:10:17.981 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   6.951826ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:10:18.225 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    247.353µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:10:25.108 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:10:25.114 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   5.713423ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:10:25.313 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    358.321µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:10:25.737 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    164.584µs| nomatch|[44m GET     [0m /6 
+2019/05/07 15:10:29.067 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:10:29.076 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   9.409321ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:10:29.311 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    201.471µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:10:34.804 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:10:34.809 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   4.632648ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:10:35.024 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    416.214µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:10:48.328 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:10:48.334 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   5.734185ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:10:48.595 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    226.093µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:10:52.717 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:10:52.721 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   4.007082ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:10:52.971 [D] [server.go:2774]  |            ::1|[43m 404 [0m|     644.62µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:11:10.653 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:11:10.665 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  12.600267ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:11:10.920 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    220.076µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:11:46.007 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:11:46.011 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   4.237659ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:11:46.214 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    225.814µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:11:58.611 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:11:58.619 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    8.07486ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:11:58.823 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    233.764µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:12:22.421 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:12:22.432 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  10.865593ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:12:22.663 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    178.102µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:12:48.093 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:12:48.101 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   8.566876ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:12:48.315 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    220.505µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:13:06.553 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:13:06.559 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   6.762594ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:13:06.771 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    230.108µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:13:51.380 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:13:51.393 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  12.336523ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:13:51.634 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    247.069µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:14:07.639 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:14:07.656 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  17.073655ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:14:07.904 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    243.696µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:14:24.780 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:14:24.785 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   5.652114ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:14:25.018 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    316.822µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:14:30.550 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:14:30.556 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   6.732769ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:14:30.772 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    257.302µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:15:12.535 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:15:12.545 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  10.501091ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:15:12.865 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    219.277µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:16:03.057 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:16:03.062 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   5.077227ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:16:03.246 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    326.751µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:16:11.279 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:16:11.284 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   4.631728ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:16:11.471 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    227.501µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:16:12.564 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    179.874µs| nomatch|[44m GET     [0m /6 
+2019/05/07 15:16:14.011 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    263.053µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:16:48.150 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:16:48.150 [I] [main.go:10]  admin/index.html
+2019/05/07 15:16:48.156 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   5.503448ms|   match|[44m GET     [0m /admin   r:/admin/
+2019/05/07 15:16:48.888 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:16:48.888 [I] [main.go:10]  admin/index.html
+2019/05/07 15:16:48.889 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:16:48.890 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.823299ms|   match|[44m GET     [0m /admin   r:/admin/
+2019/05/07 15:16:48.891 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   2.427888ms|   match|[44m GET     [0m /admin/content   r:/admin/content
+2019/05/07 15:16:49.058 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:16:49.061 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   2.519014ms|   match|[44m GET     [0m /admin/content   r:/admin/content
+2019/05/07 15:16:50.194 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:16:50.196 [I] [value.go:447]  结构是 [0xc000224700]
+2019/05/07 15:16:50.198 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   3.850073ms|   match|[44m GET     [0m /admin/posts   r:/admin/posts
+2019/05/07 15:16:51.300 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:16:51.302 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.864858ms|   match|[44m GET     [0m /admin/posts/new   r:/admin/posts/new
+2019/05/07 15:16:51.330 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.557669ms|   match|[44m GET     [0m /static/css/editor.css
+2019/05/07 15:16:51.333 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   4.465593ms|   match|[44m GET     [0m /static/js/editor.js
+2019/05/07 15:17:36.398 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    183.082µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:17:46.147 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:17:46.153 [I] [value.go:447]  结构是 [0xc000224d90]
+2019/05/07 15:17:46.155 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    8.19314ms|   match|[44m GET     [0m /admin/posts   r:/admin/posts
+2019/05/07 15:17:46.411 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    316.013µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:17:47.457 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:17:47.459 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   2.326722ms|   match|[44m GET     [0m /admin/posts/new   r:/admin/posts/new
+2019/05/07 15:17:47.719 [D] [server.go:2774]  |            ::1|[43m 404 [0m|     425.91µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:17:51.844 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:17:51.844 [I] [main.go:10]  admin/index.html
+2019/05/07 15:17:51.850 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   6.253512ms|   match|[44m GET     [0m /admin   r:/admin/
+2019/05/07 15:17:52.014 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:17:52.015 [I] [main.go:10]  admin/index.html
+2019/05/07 15:17:52.017 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   2.263095ms|   match|[44m GET     [0m /admin   r:/admin/
+2019/05/07 15:17:52.023 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:17:52.025 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    1.65585ms|   match|[44m GET     [0m /admin/content   r:/admin/content
+2019/05/07 15:17:52.093 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    204.599µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:17:52.372 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:17:52.374 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.763454ms|   match|[44m GET     [0m /admin/content   r:/admin/content
+2019/05/07 15:17:52.423 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    246.895µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:17:52.904 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:17:52.905 [I] [value.go:447]  结构是 [0xc000146770]
+2019/05/07 15:17:52.907 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   2.555519ms|   match|[44m GET     [0m /admin/posts   r:/admin/posts
+2019/05/07 15:17:53.118 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    340.485µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:17:54.118 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:17:54.120 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   2.117948ms|   match|[44m GET     [0m /admin/posts/new   r:/admin/posts/new
+2019/05/07 15:17:54.393 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    527.074µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:18:53.521 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:18:53.521 [I] [main.go:10]  admin/index.html
+2019/05/07 15:18:53.539 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  18.057766ms|   match|[44m GET     [0m /admin   r:/admin/
+2019/05/07 15:18:53.752 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:18:53.752 [I] [main.go:10]  admin/index.html
+2019/05/07 15:18:53.755 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   2.935762ms|   match|[44m GET     [0m /admin   r:/admin/
+2019/05/07 15:18:53.771 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:18:53.773 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.844829ms|   match|[44m GET     [0m /admin/content   r:/admin/content
+2019/05/07 15:18:54.105 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:18:54.106 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.055026ms|   match|[44m GET     [0m /admin/content   r:/admin/content
+2019/05/07 15:18:54.522 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    295.566µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:18:54.600 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:18:54.601 [I] [value.go:447]  结构是 [0xc000176b60]
+2019/05/07 15:18:54.603 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   2.509595ms|   match|[44m GET     [0m /admin/posts   r:/admin/posts
+2019/05/07 15:18:55.333 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    255.205µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:18:56.237 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:18:56.238 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.042592ms|   match|[44m GET     [0m /admin/posts/new   r:/admin/posts/new
+2019/05/07 15:18:56.479 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    181.354µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:20:26.148 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:20:26.148 [I] [value.go:447]  {0xc00038faa0}
+2019/05/07 15:20:26.148 [I] [value.go:447]  文件名 timg.jpeg
+2019/05/07 15:20:26.150 [I] [value.go:447]  错误是 <nil>
+2019/05/07 15:20:26.273 [I] [image.go:24]  <nil>
+2019/05/07 15:20:26.273 [D] [server.go:2774]  |            ::1|[42m 200 [0m| 127.582778ms|   match|[46m POST    [0m /admin/images   r:/admin/images
+2019/05/07 15:20:26.285 [D] [server.go:2774]  |            ::1|[42m 200 [0m|      443.7µs|   match|[44m GET     [0m /static/upload/timg.jpeg
+2019/05/07 15:20:30.143 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:20:30.143 [I] [value.go:447]  状态是 1
+2019/05/07 15:20:30.148 [I] [post.go:42]  结果是 1
+2019/05/07 15:20:30.148 [I] [value.go:447]  正文是 
+```ruby 
+require 'net/http'
+urls = ['http://www.example.com/1.html', 'http://www.example.com/2.html']
+uri = URI.parse('http://data.zz.baidu.com/urls?appid=1536768227928825&token=dpVt55TFcSh1xIue&type=realtime')
+req = Net::HTTP::Post.new(uri.request_uri)
+req.body = urls.join("\n")
+req.content_type = 'text/plain'
+res = Net::HTTP.start(uri.hostname, uri.port) { |http| http.request(req) }
+puts res.body
+```
+```ruby
+ # 返回参数格式
+ {
+    "remain": 4999999, #当天剩余可推送到新增内容的url条数 
+    "success": 1, # 当天成功推送到新增内容的url条数
+    "remain_realtime": 9,
+    "success_realtime": 1
+}
+```
+2019/05/07 15:20:30.148 [I] [post.go:51]  图片id为 27
+2019/05/07 15:20:30.161 [I] [post.go:51]  错误为 <nil>
+2019/05/07 15:20:30.161 [I] [post.go:53]  
+```ruby 
+require 'net/http'
+urls = ['http://www.example.com/1.html', 'http://www.example.com/2.html']
+uri = URI.parse('http://data.zz.baidu.com/urls?appid=1536768227928825&token=dpVt55TFcSh1xIue&type=realtime')
+req = Net::HTTP::Post.new(uri.request_uri)
+req.body = urls.join("\n")
+req.content_type = 'text/plain'
+res = Net::HTTP.start(uri.hostname, uri.port) { |http| http.request(req) }
+puts res.body
+```
+```ruby
+ # 返回参数格式
+ {
+    "remain": 4999999, #当天剩余可推送到新增内容的url条数 
+    "success": 1, # 当天成功推送到新增内容的url条数
+    "remain_realtime": 9,
+    "success_realtime": 1
+}
+```
+2019/05/07 15:20:30.161 [I] [post.go:53]  正确的图片是 &{{27 <nil>} ./static/upload/timg.jpeg timg.jpeg <nil> <nil>}
+2019/05/07 15:20:30.161 [I] [post.go:53]  model用户是 &{ironmine c4ca4238a0b923820dcc509a6f75849b Arons 755210570@qq.com 2019-04-24 17:48:20 +0800 CST  0xc000404ac0 [] [] {1 <nil>}}
+2019/05/07 15:20:30.161 [I] [post.go:53]  {0xc00041a9a0 百度站长推送，推送文章信息给百度，由百度抓取 
+```ruby 
+require 'net/http'
+urls = ['http://www.example.com/1.html', 'http://www.example.com/2.html']
+uri = URI.parse('http://data.zz.baidu.com/urls?appid=1536768227928825&token=dpVt55TFcSh1xIue&type=realtime')
+req = Net::HTTP::Post.new(uri.request_uri)
+req.body = urls.join("\n")
+req.content_type = 'text/plain'
+res = Net::HTTP.start(uri.hostname, uri.port) { |http| http.request(req) }
+puts res.body
+```
+```ruby
+ # 返回参数格式
+ {
+    "remain": 4999999, #当天剩余可推送到新增内容的url条数 
+    "success": 1, # 当天成功推送到新增内容的url条数
+    "remain_realtime": 9,
+    "success_realtime": 1
+}
+``` 其他 1 0xc000404b00 [] {0 <nil>}}
+2019/05/07 15:20:30.179 [D] [server.go:2774]  |            ::1|[47m 302 [0m|  35.844485ms|   match|[46m POST    [0m /admin/posts   r:/admin/posts
+2019/05/07 15:20:30.185 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:20:30.186 [I] [value.go:447]  结构是 [0xc000176c40 0xc000176cb0]
+2019/05/07 15:20:30.191 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   5.737749ms|   match|[44m GET     [0m /admin/posts   r:/admin/posts
+2019/05/07 15:20:33.095 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:20:33.098 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   2.737083ms|   match|[44m GET     [0m /admin/posts/new   r:/admin/posts/new
+2019/05/07 15:22:18.808 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:22:18.808 [I] [value.go:447]  {0xc00021e000}
+2019/05/07 15:22:18.808 [I] [value.go:447]  文件名 574e9258d109b3dea515b2e0c6bf6c81810a4c8b.jpg
+2019/05/07 15:22:18.809 [I] [value.go:447]  错误是 <nil>
+2019/05/07 15:22:18.908 [I] [image.go:24]  <nil>
+2019/05/07 15:22:18.908 [D] [server.go:2774]  |            ::1|[42m 200 [0m| 101.670435ms|   match|[46m POST    [0m /admin/images   r:/admin/images
+2019/05/07 15:22:18.918 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    717.619µs|   match|[44m GET     [0m /static/upload/574e9258d109b3dea515b2e0c6bf6c81810a4c8b.jpg
+2019/05/07 15:22:21.992 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:22:21.992 [I] [value.go:447]  状态是 1
+2019/05/07 15:22:21.994 [I] [post.go:42]  结果是 1
+2019/05/07 15:22:21.994 [I] [value.go:447]  正文是 * 首先cookie的特性:cookie是存于用户浏览器中的，特点是不会占用系统资源，存在时间短，cookie不是很安全，别人可以分析存放在本地的COOKIE并进行COOKIE欺骗
+   考虑到安全应当使用session。
+* session会在一定时间内保存在服务器上.当访问增多，会比较占用你服务器的性能考虑到减轻服务器性能方面，应当使用COOKIE。
+* 其实session生存会将key信息保存到cookie中，value保存在service中，session使用时，会去通过cookie中所存的信息匹配service中存的信息，所以seesion是相对于
+  cookie来说比较安全的，而且一旦用户禁用cookie，就会导致系统问题
+* 在相对不重要的信息可以保存在cookie中，重要的信息，如登录信息，则是保存在session中
+2019/05/07 15:22:21.994 [I] [post.go:51]  图片id为 28
+2019/05/07 15:22:22.017 [I] [post.go:51]  错误为 <nil>
+2019/05/07 15:22:22.017 [I] [post.go:53]  * 首先cookie的特性:cookie是存于用户浏览器中的，特点是不会占用系统资源，存在时间短，cookie不是很安全，别人可以分析存放在本地的COOKIE并进行COOKIE欺骗
+   考虑到安全应当使用session。
+* session会在一定时间内保存在服务器上.当访问增多，会比较占用你服务器的性能考虑到减轻服务器性能方面，应当使用COOKIE。
+* 其实session生存会将key信息保存到cookie中，value保存在service中，session使用时，会去通过cookie中所存的信息匹配service中存的信息，所以seesion是相对于
+  cookie来说比较安全的，而且一旦用户禁用cookie，就会导致系统问题
+* 在相对不重要的信息可以保存在cookie中，重要的信息，如登录信息，则是保存在session中
+2019/05/07 15:22:22.017 [I] [post.go:53]  正确的图片是 &{{28 <nil>} ./static/upload/574e9258d109b3dea515b2e0c6bf6c81810a4c8b.jpg 574e9258d109b3dea515b2e0c6bf6c81810a4c8b.jpg <nil> <nil>}
+2019/05/07 15:22:22.017 [I] [post.go:53]  model用户是 &{ironmine c4ca4238a0b923820dcc509a6f75849b Arons 755210570@qq.com 2019-04-24 17:48:20 +0800 CST  0xc0000cfd80 [] [] {1 <nil>}}
+2019/05/07 15:22:22.017 [I] [post.go:53]  {0xc00036e2c0 关于cookie和session的区别 * 首先cookie的特性:cookie是存于用户浏览器中的，特点是不会占用系统资源，存在时间短，cookie不是很安全，别人可以分析存放在本地的COOKIE并进行COOKIE欺骗
+   考虑到安全应当使用session。
+* session会在一定时间内保存在服务器上.当访问增多，会比较占用你服务器的性能考虑到减轻服务器性能方面，应当使用COOKIE。
+* 其实session生存会将key信息保存到cookie中，value保存在service中，session使用时，会去通过cookie中所存的信息匹配service中存的信息，所以seesion是相对于
+  cookie来说比较安全的，而且一旦用户禁用cookie，就会导致系统问题
+* 在相对不重要的信息可以保存在cookie中，重要的信息，如登录信息，则是保存在session中 Http 1 0xc0000cfdc0 [] {0 <nil>}}
+2019/05/07 15:22:22.093 [D] [server.go:2774]  |            ::1|[47m 302 [0m| 101.056633ms|   match|[46m POST    [0m /admin/posts   r:/admin/posts
+2019/05/07 15:22:22.097 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:22:22.098 [I] [value.go:447]  结构是 [0xc0002241c0 0xc000224230 0xc0002242a0]
+2019/05/07 15:22:22.102 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   5.179737ms|   match|[44m GET     [0m /admin/posts   r:/admin/posts
+2019/05/07 15:22:37.579 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:22:37.581 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.909724ms|   match|[44m GET     [0m /admin/posts/new   r:/admin/posts/new
+2019/05/07 15:23:53.268 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:23:53.268 [I] [value.go:447]  {0xc0000bf3e0}
+2019/05/07 15:23:53.268 [I] [value.go:447]  文件名 220px-Tux.png
+2019/05/07 15:23:53.270 [I] [value.go:447]  错误是 <nil>
+2019/05/07 15:23:53.373 [I] [image.go:24]  <nil>
+2019/05/07 15:23:53.373 [D] [server.go:2774]  |            ::1|[42m 200 [0m| 111.782969ms|   match|[46m POST    [0m /admin/images   r:/admin/images
+2019/05/07 15:23:53.385 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    375.059µs|   match|[44m GET     [0m /static/upload/220px-Tux.png
+2019/05/07 15:23:56.505 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:23:56.505 [I] [value.go:447]  状态是 1
+2019/05/07 15:23:56.507 [I] [post.go:42]  结果是 1
+2019/05/07 15:23:56.507 [I] [value.go:447]  正文是 	### 使用 logrotate
+ * logrotate是作为linux系统日志的管理工具存在。他可以轮换，压缩，邮件系统日志文件。默认的logrotate被加入cron的/etc/cron.daily中作为每日任务执行。
+ * /etc/logrotate.conf为其默认配置文件指定每个日志文件的默认规则。
+ * /etc/logrotate.d/*  为/etc/logrotate.conf默认包含目录其中文件也会被logrotate读取。指明每个日志文件的特定规则。
+```ruby
+/home/wangliyao/demo/Keepa/log/production.log {
+  daily # 指定转储周期为每天
+  dateext # 使用时间作为后缀
+  missingok # 没有记录文件也不会出现错误。
+  rotate 365 #存储365分文件
+  compress # 通过gzip 压缩转储以后的日志
+  delaycompress # 延迟压缩
+  notifempty # 如果是空文件的话，不转储
+  copytruncate # 用于还在打开中的日志文件，把当前日志备份并截断
+  lastaction # 运行需要执行的操作
+    rsync -au *.gz /jfs/rails-logs/`hostname -s`/
+  endscript # 加入lastaction 之后必须跟随endscript
+}
+```
+
+---
+### 使用 juicefs
+
+* 依赖云服务的对象存储，可应用于备份数据库，备份日志文件
+* [juicfs 文档](https://juicefs.io/docs/zh/intro.html)
+* [juicfs 备份nginx](https://juicefs.io/blog/cn/backup-nginx-logs-on-juicefs/)
+
+2019/05/07 15:23:56.507 [I] [post.go:51]  图片id为 29
+2019/05/07 15:23:56.520 [I] [post.go:51]  错误为 <nil>
+2019/05/07 15:23:56.520 [I] [post.go:53]  	### 使用 logrotate
+ * logrotate是作为linux系统日志的管理工具存在。他可以轮换，压缩，邮件系统日志文件。默认的logrotate被加入cron的/etc/cron.daily中作为每日任务执行。
+ * /etc/logrotate.conf为其默认配置文件指定每个日志文件的默认规则。
+ * /etc/logrotate.d/*  为/etc/logrotate.conf默认包含目录其中文件也会被logrotate读取。指明每个日志文件的特定规则。
+```ruby
+/home/wangliyao/demo/Keepa/log/production.log {
+  daily # 指定转储周期为每天
+  dateext # 使用时间作为后缀
+  missingok # 没有记录文件也不会出现错误。
+  rotate 365 #存储365分文件
+  compress # 通过gzip 压缩转储以后的日志
+  delaycompress # 延迟压缩
+  notifempty # 如果是空文件的话，不转储
+  copytruncate # 用于还在打开中的日志文件，把当前日志备份并截断
+  lastaction # 运行需要执行的操作
+    rsync -au *.gz /jfs/rails-logs/`hostname -s`/
+  endscript # 加入lastaction 之后必须跟随endscript
+}
+```
+
+---
+### 使用 juicefs
+
+* 依赖云服务的对象存储，可应用于备份数据库，备份日志文件
+* [juicfs 文档](https://juicefs.io/docs/zh/intro.html)
+* [juicfs 备份nginx](https://juicefs.io/blog/cn/backup-nginx-logs-on-juicefs/)
+
+2019/05/07 15:23:56.520 [I] [post.go:53]  正确的图片是 &{{29 <nil>} ./static/upload/220px-Tux.png 220px-Tux.png <nil> <nil>}
+2019/05/07 15:23:56.520 [I] [post.go:53]  model用户是 &{ironmine c4ca4238a0b923820dcc509a6f75849b Arons 755210570@qq.com 2019-04-24 17:48:20 +0800 CST  0xc0000ce240 [] [] {1 <nil>}}
+2019/05/07 15:23:56.520 [I] [post.go:53]  {0xc0001d6420 rails 日志备份, 数据库备份 	### 使用 logrotate
+ * logrotate是作为linux系统日志的管理工具存在。他可以轮换，压缩，邮件系统日志文件。默认的logrotate被加入cron的/etc/cron.daily中作为每日任务执行。
+ * /etc/logrotate.conf为其默认配置文件指定每个日志文件的默认规则。
+ * /etc/logrotate.d/*  为/etc/logrotate.conf默认包含目录其中文件也会被logrotate读取。指明每个日志文件的特定规则。
+```ruby
+/home/wangliyao/demo/Keepa/log/production.log {
+  daily # 指定转储周期为每天
+  dateext # 使用时间作为后缀
+  missingok # 没有记录文件也不会出现错误。
+  rotate 365 #存储365分文件
+  compress # 通过gzip 压缩转储以后的日志
+  delaycompress # 延迟压缩
+  notifempty # 如果是空文件的话，不转储
+  copytruncate # 用于还在打开中的日志文件，把当前日志备份并截断
+  lastaction # 运行需要执行的操作
+    rsync -au *.gz /jfs/rails-logs/`hostname -s`/
+  endscript # 加入lastaction 之后必须跟随endscript
+}
+```
+
+---
+### 使用 juicefs
+
+* 依赖云服务的对象存储，可应用于备份数据库，备份日志文件
+* [juicfs 文档](https://juicefs.io/docs/zh/intro.html)
+* [juicfs 备份nginx](https://juicefs.io/blog/cn/backup-nginx-logs-on-juicefs/)
+ 备份 1 0xc0000ce980 [] {0 <nil>}}
+2019/05/07 15:23:56.572 [D] [server.go:2774]  |            ::1|[47m 302 [0m|  66.828578ms|   match|[46m POST    [0m /admin/posts   r:/admin/posts
+2019/05/07 15:23:56.577 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:23:56.577 [I] [value.go:447]  结构是 [0xc00018e150 0xc00018e1c0 0xc00018e310 0xc00018e3f0]
+2019/05/07 15:23:56.582 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   5.263004ms|   match|[44m GET     [0m /admin/posts   r:/admin/posts
+2019/05/07 15:24:22.548 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:24:22.550 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   1.839141ms|   match|[44m GET     [0m /admin/posts/new   r:/admin/posts/new
+2019/05/07 15:24:51.059 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:24:51.059 [I] [value.go:447]  {0xc0001446f0}
+2019/05/07 15:24:51.059 [I] [value.go:447]  文件名 下载.png
+2019/05/07 15:24:51.060 [I] [value.go:447]  错误是 <nil>
+2019/05/07 15:24:51.086 [I] [image.go:24]  <nil>
+2019/05/07 15:24:51.086 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  28.857549ms|   match|[46m POST    [0m /admin/images   r:/admin/images
+2019/05/07 15:24:51.102 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    366.402µs|   match|[44m GET     [0m /static/upload/下载.png
+2019/05/07 15:24:54.515 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:24:54.516 [I] [value.go:447]  状态是 1
+2019/05/07 15:24:54.519 [I] [post.go:42]  结果是 1
+2019/05/07 15:24:54.519 [I] [value.go:447]  正文是 
+### 所用gem 
+  * gem 'nokogiri'
+  * gem "http"  
+----
+#### 关于爬虫最简单的写法其实并没有想象中的难以理解，具体操作就是获取所需要的网页，解析html，获取你想要的元素，并保存，大部分问题gem包都已经为我们解决了，下面是一个简单的爬虫的代码
+```ruby
+ #获取所需的http页面tbody
+    body = HTTP.get(name).body
+      ans = []
+     while body != '' 
+     #遍历获取所有body页面
+      html = body.readpartial
+       if html ==nil
+         break;
+       end
+       #获取页面中的html然后讲所需要的img抽取出来，存入数组当中
+      doc = Nokogiri::HTML(html)
+      doc.search('img').each do |i|
+        ans << i.attr('src') if i.attr('src') != nil
+      end
+     end
+```
+
+```ruby
+    #获取的所有html链接通过wget下载
+    ans.each do |full_url|
+      #system "mkdir #{Dir.getwd}/photo "
+      cmd = system "wget -r #{Dir.getwd}/ #{full_url}"
+      puts '-' * 20
+      p cmd
+    end
+  puts 'success'
+```
+----
+#### 项目地址为 
+* > https://github.com/wangliyao/clone_photo
+
+2019/05/07 15:24:54.519 [I] [post.go:51]  图片id为 30
+2019/05/07 15:24:54.521 [I] [post.go:51]  错误为 <nil>
+2019/05/07 15:24:54.521 [I] [post.go:53]  
+### 所用gem 
+  * gem 'nokogiri'
+  * gem "http"  
+----
+#### 关于爬虫最简单的写法其实并没有想象中的难以理解，具体操作就是获取所需要的网页，解析html，获取你想要的元素，并保存，大部分问题gem包都已经为我们解决了，下面是一个简单的爬虫的代码
+```ruby
+ #获取所需的http页面tbody
+    body = HTTP.get(name).body
+      ans = []
+     while body != '' 
+     #遍历获取所有body页面
+      html = body.readpartial
+       if html ==nil
+         break;
+       end
+       #获取页面中的html然后讲所需要的img抽取出来，存入数组当中
+      doc = Nokogiri::HTML(html)
+      doc.search('img').each do |i|
+        ans << i.attr('src') if i.attr('src') != nil
+      end
+     end
+```
+
+```ruby
+    #获取的所有html链接通过wget下载
+    ans.each do |full_url|
+      #system "mkdir #{Dir.getwd}/photo "
+      cmd = system "wget -r #{Dir.getwd}/ #{full_url}"
+      puts '-' * 20
+      p cmd
+    end
+  puts 'success'
+```
+----
+#### 项目地址为 
+* > https://github.com/wangliyao/clone_photo
+
+2019/05/07 15:24:54.521 [I] [post.go:53]  正确的图片是 &{{30 <nil>} ./static/upload/下载.png 下载.png <nil> <nil>}
+2019/05/07 15:24:54.521 [I] [post.go:53]  model用户是 &{ironmine c4ca4238a0b923820dcc509a6f75849b Arons 755210570@qq.com 2019-04-24 17:48:20 +0800 CST  0xc00044aa00 [] [] {1 <nil>}}
+2019/05/07 15:24:54.521 [I] [post.go:53]  {0xc000364b00 关于个人写小爬虫的积累 
+### 所用gem 
+  * gem 'nokogiri'
+  * gem "http"  
+----
+#### 关于爬虫最简单的写法其实并没有想象中的难以理解，具体操作就是获取所需要的网页，解析html，获取你想要的元素，并保存，大部分问题gem包都已经为我们解决了，下面是一个简单的爬虫的代码
+```ruby
+ #获取所需的http页面tbody
+    body = HTTP.get(name).body
+      ans = []
+     while body != '' 
+     #遍历获取所有body页面
+      html = body.readpartial
+       if html ==nil
+         break;
+       end
+       #获取页面中的html然后讲所需要的img抽取出来，存入数组当中
+      doc = Nokogiri::HTML(html)
+      doc.search('img').each do |i|
+        ans << i.attr('src') if i.attr('src') != nil
+      end
+     end
+```
+
+```ruby
+    #获取的所有html链接通过wget下载
+    ans.each do |full_url|
+      #system "mkdir #{Dir.getwd}/photo "
+      cmd = system "wget -r #{Dir.getwd}/ #{full_url}"
+      puts '-' * 20
+      p cmd
+    end
+  puts 'success'
+```
+----
+#### 项目地址为 
+* > https://github.com/wangliyao/clone_photo
+ 爬虫 1 0xc00044aa40 [] {0 <nil>}}
+2019/05/07 15:24:54.531 [D] [server.go:2774]  |            ::1|[47m 302 [0m|  15.788071ms|   match|[46m POST    [0m /admin/posts   r:/admin/posts
+2019/05/07 15:24:54.535 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:24:54.536 [I] [value.go:447]  结构是 [0xc000224a80 0xc000224af0 0xc000224b60 0xc000224bd0 0xc000224c40]
+2019/05/07 15:24:54.537 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   2.318224ms|   match|[44m GET     [0m /admin/posts   r:/admin/posts
+2019/05/07 15:25:26.787 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:25:26.810 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  22.698663ms|   match|[44m GET     [0m /admin/posts/new   r:/admin/posts/new
+2019/05/07 15:26:36.551 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:26:36.552 [I] [value.go:447]  {0xc00008e390}
+2019/05/07 15:26:36.552 [I] [value.go:447]  文件名 Ruby_on_Rails-logo.png
+2019/05/07 15:26:36.555 [I] [value.go:447]  错误是 <nil>
+2019/05/07 15:26:36.602 [I] [image.go:24]  <nil>
+2019/05/07 15:26:36.602 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  60.417637ms|   match|[46m POST    [0m /admin/images   r:/admin/images
+2019/05/07 15:26:36.612 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    572.179µs|   match|[44m GET     [0m /static/upload/Ruby_on_Rails-logo.png
+2019/05/07 15:26:39.684 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:26:39.684 [I] [value.go:447]  状态是 1
+2019/05/07 15:26:39.686 [I] [post.go:42]  结果是 1
+2019/05/07 15:26:39.686 [I] [value.go:447]  正文是 Rails在module层建立关联后，进行关联查询时会出现N+1查询的情况
+
+```ruby
+class Post < ApplicationRecord
+  has_many :comments
+end
+
+class Comment < ApplicationRecord
+  belongs_to :post
+end
+
+> Post.count
+(0.1ms)  SELECT COUNT(*) FROM "posts"
+=> 4
+
+> Post.all.map{|post| post.comments}
+  Post Load (0.3ms)  SELECT "posts".* FROM "posts"
+  Comment Load (0.2ms)  SELECT "comments".* FROM "comments" WHERE "comments"."post_id" = ?  [["post_id", 1]]
+  Comment Load (0.4ms)  SELECT "comments".* FROM "comments" WHERE "comments"."post_id" = ?  [["post_id", 2]]
+  Comment Load (0.6ms)  SELECT "comments".* FROM "comments" WHERE "comments"."post_id" = ?  [["post_id", 3]]
+  Comment Load (0.6ms)  SELECT "comments".* FROM "comments" WHERE "comments"."post_id" = ?  [["post_id", 4]]
+```
+`一共有4个查询结果，但是却查询了5次，这个就出现了N+1查询`
+
+##解决方式
+
+ActiveRecord提供了对module层预加载的功能
+
+分别为
+
+* `includes`
+* `preload`
+* `eager_load`
+
+```ruby
+> Post.includes(:comments).map{|post| post.comments}
+  Post Load (0.2ms)  SELECT "posts".* FROM "posts"
+  Comment Load (0.5ms)  SELECT "comments".* FROM "comments" WHERE "comments"."post_id" IN (1, 2, 3, 4)
+```
+`更优雅的方式参见gem goldiloader`
+
+####关于rails N+1问题
+ 在rails处理关联关系的时候出现，如果使用普通的查询，会先去执行查找父的条件，然后在去逐一查询子表的关联数据，如果使用include查询，则会只进行两次的条件查询
+ 减少与数据库的交互，一定程度上增加程序的查询效率，是比较常见的开发中会出现的问题
+
+2019/05/07 15:26:39.686 [I] [post.go:51]  图片id为 31
+2019/05/07 15:26:39.691 [I] [post.go:51]  错误为 <nil>
+2019/05/07 15:26:39.691 [I] [post.go:53]  Rails在module层建立关联后，进行关联查询时会出现N+1查询的情况
+
+```ruby
+class Post < ApplicationRecord
+  has_many :comments
+end
+
+class Comment < ApplicationRecord
+  belongs_to :post
+end
+
+> Post.count
+(0.1ms)  SELECT COUNT(*) FROM "posts"
+=> 4
+
+> Post.all.map{|post| post.comments}
+  Post Load (0.3ms)  SELECT "posts".* FROM "posts"
+  Comment Load (0.2ms)  SELECT "comments".* FROM "comments" WHERE "comments"."post_id" = ?  [["post_id", 1]]
+  Comment Load (0.4ms)  SELECT "comments".* FROM "comments" WHERE "comments"."post_id" = ?  [["post_id", 2]]
+  Comment Load (0.6ms)  SELECT "comments".* FROM "comments" WHERE "comments"."post_id" = ?  [["post_id", 3]]
+  Comment Load (0.6ms)  SELECT "comments".* FROM "comments" WHERE "comments"."post_id" = ?  [["post_id", 4]]
+```
+`一共有4个查询结果，但是却查询了5次，这个就出现了N+1查询`
+
+##解决方式
+
+ActiveRecord提供了对module层预加载的功能
+
+分别为
+
+* `includes`
+* `preload`
+* `eager_load`
+
+```ruby
+> Post.includes(:comments).map{|post| post.comments}
+  Post Load (0.2ms)  SELECT "posts".* FROM "posts"
+  Comment Load (0.5ms)  SELECT "comments".* FROM "comments" WHERE "comments"."post_id" IN (1, 2, 3, 4)
+```
+`更优雅的方式参见gem goldiloader`
+
+####关于rails N+1问题
+ 在rails处理关联关系的时候出现，如果使用普通的查询，会先去执行查找父的条件，然后在去逐一查询子表的关联数据，如果使用include查询，则会只进行两次的条件查询
+ 减少与数据库的交互，一定程度上增加程序的查询效率，是比较常见的开发中会出现的问题
+
+2019/05/07 15:26:39.691 [I] [post.go:53]  正确的图片是 &{{31 <nil>} ./static/upload/Ruby_on_Rails-logo.png Ruby_on_Rails-logo.png <nil> <nil>}
+2019/05/07 15:26:39.691 [I] [post.go:53]  model用户是 &{ironmine c4ca4238a0b923820dcc509a6f75849b Arons 755210570@qq.com 2019-04-24 17:48:20 +0800 CST  0xc000404200 [] [] {1 <nil>}}
+2019/05/07 15:26:39.691 [I] [post.go:53]  {0xc0000daa50 Rails N+1查询及解决方式 Rails在module层建立关联后，进行关联查询时会出现N+1查询的情况
+
+```ruby
+class Post < ApplicationRecord
+  has_many :comments
+end
+
+class Comment < ApplicationRecord
+  belongs_to :post
+end
+
+> Post.count
+(0.1ms)  SELECT COUNT(*) FROM "posts"
+=> 4
+
+> Post.all.map{|post| post.comments}
+  Post Load (0.3ms)  SELECT "posts".* FROM "posts"
+  Comment Load (0.2ms)  SELECT "comments".* FROM "comments" WHERE "comments"."post_id" = ?  [["post_id", 1]]
+  Comment Load (0.4ms)  SELECT "comments".* FROM "comments" WHERE "comments"."post_id" = ?  [["post_id", 2]]
+  Comment Load (0.6ms)  SELECT "comments".* FROM "comments" WHERE "comments"."post_id" = ?  [["post_id", 3]]
+  Comment Load (0.6ms)  SELECT "comments".* FROM "comments" WHERE "comments"."post_id" = ?  [["post_id", 4]]
+```
+`一共有4个查询结果，但是却查询了5次，这个就出现了N+1查询`
+
+##解决方式
+
+ActiveRecord提供了对module层预加载的功能
+
+分别为
+
+* `includes`
+* `preload`
+* `eager_load`
+
+```ruby
+> Post.includes(:comments).map{|post| post.comments}
+  Post Load (0.2ms)  SELECT "posts".* FROM "posts"
+  Comment Load (0.5ms)  SELECT "comments".* FROM "comments" WHERE "comments"."post_id" IN (1, 2, 3, 4)
+```
+`更优雅的方式参见gem goldiloader`
+
+####关于rails N+1问题
+ 在rails处理关联关系的时候出现，如果使用普通的查询，会先去执行查找父的条件，然后在去逐一查询子表的关联数据，如果使用include查询，则会只进行两次的条件查询
+ 减少与数据库的交互，一定程度上增加程序的查询效率，是比较常见的开发中会出现的问题
+ Rails 1 0xc000404240 [] {0 <nil>}}
+2019/05/07 15:26:39.784 [D] [server.go:2774]  |            ::1|[47m 302 [0m|  100.31148ms|   match|[46m POST    [0m /admin/posts   r:/admin/posts
+2019/05/07 15:26:39.791 [I] [router.go:645]  cookies 755210570@qq.com
+2019/05/07 15:26:39.792 [I] [value.go:447]  结构是 [0xc000224070 0xc0002240e0 0xc000224150 0xc0002241c0 0xc000224230 0xc0002242a0]
+2019/05/07 15:26:39.794 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   2.658745ms|   match|[44m GET     [0m /admin/posts   r:/admin/posts
+2019/05/07 15:27:01.496 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:27:01.541 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  44.711279ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:27:01.604 [D] [server.go:2774]  |            ::1|[47m 304 [0m|     74.055µs|   match|[44m GET     [0m /static/upload/Ruby_on_Rails-logo.png
+2019/05/07 15:27:01.691 [D] [server.go:2774]  |            ::1|[47m 304 [0m|    101.737µs|   match|[44m GET     [0m /static/upload/220px-Tux.png
+2019/05/07 15:27:01.691 [D] [server.go:2774]  |            ::1|[47m 304 [0m|     59.215µs|   match|[44m GET     [0m /static/upload/574e9258d109b3dea515b2e0c6bf6c81810a4c8b.jpg
+2019/05/07 15:27:01.692 [D] [server.go:2774]  |            ::1|[47m 304 [0m|     87.689µs|   match|[44m GET     [0m /static/upload/timg.jpeg
+2019/05/07 15:27:16.130 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    262.645µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:27:17.115 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    405.817µs| nomatch|[44m GET     [0m /11
+2019/05/07 15:27:19.461 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    411.995µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:28:06.106 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:28:06.113 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   6.953924ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:28:06.163 [D] [server.go:2774]  |            ::1|[47m 304 [0m|     72.964µs|   match|[44m GET     [0m /static/upload/Ruby_on_Rails-logo.png
+2019/05/07 15:28:06.163 [D] [server.go:2774]  |            ::1|[47m 304 [0m|    385.761µs|   match|[44m GET     [0m /static/upload/220px-Tux.png
+2019/05/07 15:28:06.222 [D] [server.go:2774]  |            ::1|[47m 304 [0m|     70.201µs|   match|[44m GET     [0m /static/upload/574e9258d109b3dea515b2e0c6bf6c81810a4c8b.jpg
+2019/05/07 15:28:06.222 [D] [server.go:2774]  |            ::1|[47m 304 [0m|    110.804µs|   match|[44m GET     [0m /static/upload/timg.jpeg
+2019/05/07 15:28:13.522 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:28:13.533 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  10.593828ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:28:17.723 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:28:17.728 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   5.780699ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:28:17.755 [D] [server.go:2774]  |            ::1|[47m 304 [0m|     140.05µs|   match|[44m GET     [0m /static/upload/Ruby_on_Rails-logo.png
+2019/05/07 15:28:22.882 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:28:22.887 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   4.652185ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:28:43.517 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:28:43.524 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   7.825228ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:28:43.571 [D] [server.go:2774]  |            ::1|[47m 304 [0m|     88.949µs|   match|[44m GET     [0m /static/upload/Ruby_on_Rails-logo.png
+2019/05/07 15:28:43.571 [D] [server.go:2774]  |            ::1|[47m 304 [0m|    172.808µs|   match|[44m GET     [0m /static/upload/220px-Tux.png
+2019/05/07 15:28:43.653 [D] [server.go:2774]  |            ::1|[47m 304 [0m|     74.032µs|   match|[44m GET     [0m /static/upload/574e9258d109b3dea515b2e0c6bf6c81810a4c8b.jpg
+2019/05/07 15:29:23.186 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:29:23.199 [D] [controller.go:282]  template Execute err: template: index.html:39:30: executing "index.html" at <$v.User.NickName>: can't evaluate field NickName in type *models.User
+2019/05/07 15:29:23.199 [E] [server.go:2774]  template: index.html:39:30: executing "index.html" at <$v.User.NickName>: can't evaluate field NickName in type *models.User
+2019/05/07 15:29:23.199 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  13.639505ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:29:36.709 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:29:36.717 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    8.73029ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:29:36.763 [D] [server.go:2774]  |            ::1|[47m 304 [0m|     97.041µs|   match|[44m GET     [0m /static/upload/Ruby_on_Rails-logo.png
+2019/05/07 15:29:36.838 [D] [server.go:2774]  |            ::1|[47m 304 [0m|    103.387µs|   match|[44m GET     [0m /static/upload/220px-Tux.png
+2019/05/07 15:29:36.852 [D] [server.go:2774]  |            ::1|[47m 304 [0m|     74.459µs|   match|[44m GET     [0m /static/upload/574e9258d109b3dea515b2e0c6bf6c81810a4c8b.jpg
+2019/05/07 15:29:36.853 [D] [server.go:2774]  |            ::1|[47m 304 [0m|    104.414µs|   match|[44m GET     [0m /static/upload/timg.jpeg
+2019/05/07 15:29:47.647 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    195.636µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:30:54.552 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:30:54.562 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  10.699815ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:30:54.635 [D] [server.go:2774]  |            ::1|[47m 304 [0m|     82.101µs|   match|[44m GET     [0m /static/upload/Ruby_on_Rails-logo.png
+2019/05/07 15:30:54.638 [D] [server.go:2774]  |            ::1|[47m 304 [0m|     64.152µs|   match|[44m GET     [0m /static/upload/220px-Tux.png
+2019/05/07 15:30:54.755 [D] [server.go:2774]  |            ::1|[47m 304 [0m|     64.723µs|   match|[44m GET     [0m /static/upload/574e9258d109b3dea515b2e0c6bf6c81810a4c8b.jpg
+2019/05/07 15:30:54.755 [D] [server.go:2774]  |            ::1|[47m 304 [0m|     50.431µs|   match|[44m GET     [0m /static/upload/timg.jpeg
+2019/05/07 15:30:54.867 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    261.734µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:31:14.419 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:31:14.424 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   5.184086ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:31:14.724 [D] [server.go:2774]  |            ::1|[43m 404 [0m|   1.063724ms| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:34:00.544 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:34:00.566 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  22.129588ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:34:00.642 [D] [server.go:2774]  |            ::1|[47m 304 [0m|    135.356µs|   match|[44m GET     [0m /static/upload/Ruby_on_Rails-logo.png
+2019/05/07 15:34:00.647 [D] [server.go:2774]  |            ::1|[47m 304 [0m|     407.83µs|   match|[44m GET     [0m /static/upload/220px-Tux.png
+2019/05/07 15:34:00.750 [D] [server.go:2774]  |            ::1|[47m 304 [0m|   1.413682ms|   match|[44m GET     [0m /static/upload/timg.jpeg
+2019/05/07 15:34:00.752 [D] [server.go:2774]  |            ::1|[47m 304 [0m|   1.587293ms|   match|[44m GET     [0m /static/upload/574e9258d109b3dea515b2e0c6bf6c81810a4c8b.jpg
+2019/05/07 15:34:00.880 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    237.336µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:34:16.539 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:34:16.552 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  13.962291ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:34:16.835 [D] [server.go:2774]  |            ::1|[43m 404 [0m|   1.578878ms| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:34:38.414 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:34:38.428 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  13.234732ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:34:38.659 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    250.123µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:34:45.696 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:34:45.704 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   7.549663ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:34:45.757 [D] [server.go:2774]  |            ::1|[47m 304 [0m|     62.907µs|   match|[44m GET     [0m /static/upload/Ruby_on_Rails-logo.png
+2019/05/07 15:34:45.972 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    226.561µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:34:56.962 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:34:56.968 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   6.632969ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:34:57.151 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    210.811µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:35:53.286 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:35:53.294 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   8.305794ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:35:53.349 [D] [server.go:2774]  |            ::1|[47m 304 [0m|    727.745µs|   match|[44m GET     [0m /static/upload/220px-Tux.png
+2019/05/07 15:35:53.350 [D] [server.go:2774]  |            ::1|[47m 304 [0m|    431.255µs|   match|[44m GET     [0m /static/upload/Ruby_on_Rails-logo.png
+2019/05/07 15:35:53.416 [D] [server.go:2774]  |            ::1|[47m 304 [0m|     68.772µs|   match|[44m GET     [0m /static/upload/timg.jpeg
+2019/05/07 15:35:53.416 [D] [server.go:2774]  |            ::1|[47m 304 [0m|     140.54µs|   match|[44m GET     [0m /static/upload/574e9258d109b3dea515b2e0c6bf6c81810a4c8b.jpg
+2019/05/07 15:35:53.552 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    176.123µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:36:04.015 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:36:04.022 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   7.412296ms|   match|[44m GET     [0m /     r:/
+2019/05/07 15:36:04.245 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    202.811µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 15:36:40.184 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 15:36:40.202 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  17.993131ms|   match|[44m GET     [0m /     r:/
+2019/05/07 16:05:22.469 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/05/07 16:12:18.264 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/05/07 16:20:17.798 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/05/07 16:20:32.712 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/05/07 16:21:10.038 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 16:21:10.063 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  24.604953ms|   match|[44m GET     [0m /     r:/
+2019/05/07 16:21:10.135 [D] [server.go:2774]  |            ::1|[47m 304 [0m|   1.626118ms|   match|[44m GET     [0m /static/upload/Ruby_on_Rails-logo.png
+2019/05/07 16:21:10.143 [D] [server.go:2774]  |            ::1|[47m 304 [0m|   1.240238ms|   match|[44m GET     [0m /static/upload/220px-Tux.png
+2019/05/07 16:21:10.229 [D] [server.go:2774]  |            ::1|[47m 304 [0m|     975.69µs|   match|[44m GET     [0m /static/upload/574e9258d109b3dea515b2e0c6bf6c81810a4c8b.jpg
+2019/05/07 16:21:10.230 [D] [server.go:2774]  |            ::1|[47m 304 [0m|    547.471µs|   match|[44m GET     [0m /static/upload/timg.jpeg
+2019/05/07 16:21:17.403 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 16:21:17.411 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   8.656583ms|   match|[44m GET     [0m /     r:/
+2019/05/07 16:21:44.896 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/05/07 16:22:34.699 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 16:22:34.711 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  12.654533ms|   match|[44m GET     [0m /     r:/
+2019/05/07 16:22:36.295 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/05/07 16:22:41.278 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/05/07 16:22:44.203 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 16:22:44.211 [I] [value.go:447]  &{0xc0003de900 5 0 1 [] 0 0}
+2019/05/07 16:22:44.218 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  15.271988ms|   match|[44m GET     [0m /     r:/
+2019/05/07 16:23:14.829 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 16:23:14.843 [I] [value.go:447]  &{0xc000222b00 5 0 1 [] 0 0}
+2019/05/07 16:23:14.845 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  15.633265ms|   match|[44m GET     [0m /     r:/
+2019/05/07 16:23:21.071 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/05/07 16:23:23.838 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 16:23:23.843 [I] [value.go:447]  0x152b210
+2019/05/07 16:23:23.850 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  12.667722ms|   match|[44m GET     [0m /     r:/
+2019/05/07 16:23:32.895 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    207.941µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 16:23:54.352 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/05/07 16:24:04.557 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 16:24:04.571 [I] [value.go:447]  &{0xc000390400 5 0 1 [] 0 0}
+2019/05/07 16:24:04.585 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  27.960106ms|   match|[44m GET     [0m /     r:/
+2019/05/07 16:24:04.890 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    274.153µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 16:24:13.226 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 16:24:13.229 [I] [value.go:447]  &{0xc00020a300 5 0 1 [] 0 0}
+2019/05/07 16:24:13.232 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    6.87424ms|   match|[44m GET     [0m /     r:/
+2019/05/07 16:24:13.465 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    223.641µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 16:24:32.121 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 16:24:32.126 [I] [value.go:447]  &{0xc000390600 5 0 1 [] 0 0}
+2019/05/07 16:24:32.128 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   7.893912ms|   match|[44m GET     [0m /     r:/
+2019/05/07 16:24:32.431 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    296.771µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 16:30:40.115 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/05/07 16:30:56.728 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 16:30:56.743 [I] [value.go:447]  &{0xc0003de400 5 0 1 [] 1 1}
+2019/05/07 16:30:56.749 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  21.144844ms|   match|[44m GET     [0m /     r:/
+2019/05/07 16:30:56.837 [D] [server.go:2774]  |            ::1|[47m 304 [0m|   1.920183ms|   match|[44m GET     [0m /static/upload/Ruby_on_Rails-logo.png
+2019/05/07 16:30:56.839 [D] [server.go:2774]  |            ::1|[47m 304 [0m|   2.112581ms|   match|[44m GET     [0m /static/upload/220px-Tux.png
+2019/05/07 16:30:57.018 [D] [server.go:2774]  |            ::1|[47m 304 [0m|    888.873µs|   match|[44m GET     [0m /static/upload/574e9258d109b3dea515b2e0c6bf6c81810a4c8b.jpg
+2019/05/07 16:30:57.018 [D] [server.go:2774]  |            ::1|[47m 304 [0m|    844.867µs|   match|[44m GET     [0m /static/upload/timg.jpeg
+2019/05/07 16:30:57.136 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    237.711µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 16:31:47.062 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 16:31:47.067 [I] [value.go:447]  &{0xc00020c600 5 0 1 [] 1 1}
+2019/05/07 16:31:47.071 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   8.313028ms|   match|[44m GET     [0m /     r:/
+2019/05/07 16:31:47.326 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    297.196µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 16:31:50.143 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/05/07 16:32:36.557 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 16:32:36.570 [I] [value.go:447]  &{0xc000270e00 5 0 1 [] 1 1}
+2019/05/07 16:32:36.575 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   18.14566ms|   match|[44m GET     [0m /     r:/
+2019/05/07 16:32:36.989 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    326.466µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 16:32:40.497 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/05/07 16:32:54.302 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    423.475µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 16:33:23.595 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 16:33:23.604 [I] [value.go:447]  &{0xc00028ab00 5 0 1 [] 0 0}
+2019/05/07 16:33:23.611 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   16.15964ms|   match|[44m GET     [0m /     r:/
+2019/05/07 16:33:23.870 [D] [server.go:2774]  |            ::1|[43m 404 [0m|   1.062929ms| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 16:33:27.579 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/05/07 16:33:30.563 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/05/07 16:33:48.630 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 16:33:48.636 [I] [value.go:447]  &{0xc000370300 5 0 1 [] 1 1}
+2019/05/07 16:33:48.641 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  11.010199ms|   match|[44m GET     [0m /     r:/
+2019/05/07 16:33:48.921 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    211.359µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 16:33:52.662 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/05/07 16:33:55.040 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 16:33:55.041 [I] [value.go:447]  offset 0
+2019/05/07 16:33:55.047 [I] [value.go:447]  &{0xc000208600 5 0 1 [] 1 1}
+2019/05/07 16:33:55.054 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  14.573717ms|   match|[44m GET     [0m /     r:/
+2019/05/07 16:33:55.244 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    213.797µs| nomatch|[44m GET     [0m /static/css/bootstrap.min.css.map
+2019/05/07 16:34:24.438 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 16:34:24.442 [I] [value.go:447]  offset 0
+2019/05/07 16:34:24.444 [I] [value.go:447]  &{0xc000402b00 5 0 1 [] 1 1}
+2019/05/07 16:34:24.448 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  10.204155ms|   match|[44m GET     [0m /     r:/
+2019/05/07 16:34:25.861 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/05/07 16:34:40.460 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/05/07 16:34:40.499 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 16:34:40.504 [I] [value.go:447]  offset 0
+2019/05/07 16:34:40.510 [I] [value.go:447]  &{0xc00028ab00 5 0 5 [] 1 1}
+2019/05/07 16:34:40.523 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  25.240508ms|   match|[44m GET     [0m /     r:/
+2019/05/07 16:36:54.251 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 16:36:54.252 [I] [value.go:447]  offset 0
+2019/05/07 16:36:54.254 [I] [value.go:447]  &{0xc000220300 5 0 5 [] 1 1}
+2019/05/07 16:36:54.258 [D] [server.go:2774]  |            ::1|[42m 200 [0m|   6.789912ms|   match|[44m GET     [0m /     r:/
+2019/05/07 16:37:22.321 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/05/07 16:37:32.055 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 16:37:32.059 [I] [value.go:447]  offset 0
+2019/05/07 16:37:32.064 [I] [value.go:447]  &{0xc00021c300 5 0 5 [] 1 1}
+2019/05/07 16:37:32.069 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  14.425843ms|   match|[44m GET     [0m /     r:/
+2019/05/07 16:37:32.110 [D] [server.go:2774]  |            ::1|[47m 304 [0m|    940.981µs|   match|[44m GET     [0m /static/upload/Ruby_on_Rails-logo.png
+2019/05/07 16:37:35.857 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/05/07 16:37:40.685 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 16:37:40.688 [I] [value.go:447]  offset 0
+2019/05/07 16:37:40.694 [I] [value.go:447]  &{0xc0003fc700 5 0 2 [] 1 1}
+2019/05/07 16:37:40.700 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  15.368186ms|   match|[44m GET     [0m /     r:/
+2019/05/07 16:37:43.176 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/05/07 16:37:51.929 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/05/07 16:37:52.750 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 16:37:52.752 [I] [value.go:447]  offset 0
+2019/05/07 16:37:52.755 [I] [value.go:447]  &{0xc0003b4400 5 0 2 [] 1 1}
+2019/05/07 16:37:52.763 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  13.823164ms|   match|[44m GET     [0m /     r:/
+2019/05/07 16:37:52.798 [D] [server.go:2774]  |            ::1|[47m 304 [0m|   2.568964ms|   match|[44m GET     [0m /static/upload/220px-Tux.png
+2019/05/07 16:37:52.807 [D] [server.go:2774]  |            ::1|[47m 304 [0m|   6.921778ms|   match|[44m GET     [0m /static/upload/574e9258d109b3dea515b2e0c6bf6c81810a4c8b.jpg
+2019/05/07 16:39:32.980 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/05/07 16:39:34.667 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 16:39:34.671 [I] [value.go:447]  offset 0
+2019/05/07 16:39:34.678 [I] [value.go:447]  &{0xc000386c00 5 0 2 [] 1 1}
+2019/05/07 16:39:34.685 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  18.145164ms|   match|[44m GET     [0m /     r:/
+2019/05/07 16:39:34.738 [D] [server.go:2774]  |            ::1|[47m 304 [0m|    584.767µs|   match|[44m GET     [0m /static/upload/timg.jpeg
+2019/05/07 16:39:46.803 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 16:39:46.808 [I] [value.go:447]  offset 0
+2019/05/07 16:39:46.811 [I] [value.go:447]  &{0xc000386d00 5 0 2 [] 1 1}
+2019/05/07 16:39:46.816 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  13.118982ms|   match|[44m GET     [0m /     r:/
+2019/05/07 16:39:50.079 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/05/07 16:39:52.478 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 16:39:52.480 [I] [value.go:447]  offset 0
+2019/05/07 16:39:52.485 [I] [value.go:447]  &{0xc0003e0400 5 0 1 [] 1 1}
+2019/05/07 16:39:52.490 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  11.732812ms|   match|[44m GET     [0m /     r:/
+2019/05/07 16:48:23.890 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/05/07 16:48:26.304 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/05/07 16:48:30.123 [I] [base.go:34]  email是 755210570@qq.com
+2019/05/07 16:48:30.129 [I] [value.go:447]  offset 0
+2019/05/07 16:48:30.129 [I] [value.go:447]  &{0xc000206d00 5 0 1 [] 1 1}
+2019/05/07 16:48:30.134 [D] [server.go:2774]  |            ::1|[42m 200 [0m|  11.573583ms|   match|[44m GET     [0m /     r:/
+2019/05/07 16:48:30.209 [D] [server.go:2774]  |            ::1|[47m 304 [0m|   1.296227ms|   match|[44m GET     [0m /static/upload/Ruby_on_Rails-logo.png
+2019/05/07 16:48:30.223 [D] [server.go:2774]  |            ::1|[47m 304 [0m|    980.975µs|   match|[44m GET     [0m /static/upload/220px-Tux.png
+2019/05/07 16:48:30.378 [D] [server.go:2774]  |            ::1|[47m 304 [0m|   1.229841ms|   match|[44m GET     [0m /static/upload/574e9258d109b3dea515b2e0c6bf6c81810a4c8b.jpg
+2019/05/07 16:48:30.379 [D] [server.go:2774]  |            ::1|[47m 304 [0m|   1.674986ms|   match|[44m GET     [0m /static/upload/timg.jpeg
+2019/05/07 16:51:13.857 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/05/07 16:51:33.625 [I] [asm_amd64.s:1337]  http server Running on http://:3000
+2019/05/07 16:51:35.859 [I] [asm_amd64.s:1337]  http server Running on http://:3000
